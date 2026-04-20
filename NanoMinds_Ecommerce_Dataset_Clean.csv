@@ -1,0 +1,547 @@
+order_id,customer_name,location,order_date,delivery_date,product_category,order_value,payment_method,delivery_status,logistics_partner
+313,Aliyu Adeleke,Asaba,6/22/2023,7/1/2023,Home & Living,13027.67,Card,Delayed,Red Star Express
+161,John Maikudi,Calabar,3/4/2023,3/11/2023,Stationery,82133.15,Cash,Delivered,Jumia Logistics
+24,Grace Afolabi,Lagos,3/16/2023,3/27/2023,Books,143736.94,Card,Delivered,Red Star Express
+48,Amara Nwosu,Warri,1/25/2024,2/5/2024,Fashion & Apparel,114295.08,Card,Delivered,GIG Logistics
+237,Michael Okonkwo,Sokoto,5/4/2024,10/4/2024,Groceries,30644.76,Bank Transfer,Delivered,Kwik Delivery
+149,Musa Eze,Ilorin,6/6/2023,6/11/2023,Sports & Fitness,143060.77,Bank Transfer,Pending,Red Star Express
+422,Mary Olawale,Onitsha,3/15/2023,3/24/2023,Home & Living,111233.33,Card,Delivered,Sendbox
+536,Peter Babatunde,Kano,10/2/2023,5/10/2023,Automotive,136093.5,Cash,Delivered,Jumia Logistics
+89,Ibrahim Bello,Warri,7/6/2023,7/9/2023,Home & Living,34595.07,Cash,Delivered,Courier Plus
+14,Sola Adeleke,Sokoto,3/11/2023,3/15/2023,Sports & Fitness,47813.4,Bank Transfer,Delayed,Jumia Logistics
+86,David Babatunde,Abeokuta,5/1/2023,5/6/2023,Fashion & Apparel,68354.36,USSD,Canceled,Kwik Delivery
+67,Unknown,Sokoto,1/20/2023,1/22/2023,Fashion & Apparel,987152.27,USSD,Delivered,DHL
+91,John Okafor,Calabar,9/29/2023,10/12/2023,Sports & Fitness,121295.05,USSD,Delayed,Red Star Express
+594,Sunday Bello,Sokoto,1/14/2023,1/26/2023,Home & Living,73591.81,Mobile Money,Delivered,Red Star Express
+483,Sarah Adeleke,Kaduna,6/20/2023,2/7/2023,Automotive,77509.67,USSD,Delivered,Red Star Express
+315,James Chukwuemeka,Kaduna,5/1/2023,3/5/2023,Electronics,23233.4,Mobile Money,Delivered,GIG Logistics
+293,Sarah Okafor,Uyo,11/8/2023,11/15/2023,Home & Living,56014.21,Card,Returned,GIG Logistics
+274,John Nwachukwu,Ilorin,6/17/2023,6/19/2023,Books,115470.79,Bank Transfer,Canceled,Sendbox
+42,Uche Afolabi,Calabar,4/18/2023,4/24/2023,Automotive,49167.79,USSD,Canceled,Kwik Delivery
+148,Chidi Nwosu,Kaduna,3/6/2024,3/17/2024,Electronics,94657.03,Mobile Money,Returned,Kwik Delivery
+306,Aisha Ogundimu,Kano,7/2/2024,2/15/2024,Sports & Fitness,605618.49,USSD,Canceled,Kwik Delivery
+589,Tunde Maikudi,Sokoto,2/15/2024,2/27/2024,Electronics,0,USSD,Canceled,Sendbox
+258,Paul Olawale,Enugu,4/5/2023,4/15/2023,Fashion & Apparel,6568.37,USSD,Returned,Jumia Logistics
+442,Tunde Olawale,Abeokuta,11/10/2023,11/17/2023,Home & Living,43.22,Cash,Delivered,Red Star Express
+392,James Afolabi,Owerri,3/21/2023,3/30/2023,Books,142225.19,USSD,Delivered,Red Star Express
+588,Zainab Okafor,Unknown,2/28/2024,11/3/2024,Books,43180.37,Bank Transfer,Delivered,Sendbox
+354,Paul Adeleke,Jos,10/2/2023,10/11/2023,Home & Living,103110.69,Mobile Money,Delivered,Kwik Delivery
+503,Unknown,Sokoto,6/19/2024,6/25/2024,Books,91947.7,Bank Transfer,Delayed,GIG Logistics
+60,Peter Olawale,Asaba,3/9/2023,3/19/2023,Automotive,15777.59,Bank Transfer,Delivered,Red Star Express
+261,Sola Chukwuemeka,Sokoto,2/9/2024,2/13/2024,Fashion & Apparel,64107.55,Cash,Delayed,Sendbox
+464,Unknown,Uyo,1/8/2024,1/11/2024,Automotive,104570.12,Cash,Delayed,Kwik Delivery
+352,Paul Nwosu,Owerri,2/18/2023,2/28/2023,Food & Drink,120376.67,Bank Transfer,Returned,Sendbox
+466,John Adeyemi,Owerri,5/27/2023,5/29/2023,Home & Living,48137.69,USSD,Pending,GIG Logistics
+174,Kemi Olawale,Port Harcourt,3/21/2024,4/4/2024,Books,49592.89,USSD,Returned,Courier Plus
+287,Hauwa Adeleke,Unknown,12/13/2023,12/14/2023,Books,89822.08,USSD,Delivered,Sendbox
+180,Kemi Ogundimu,Lagos,8/8/2023,8/19/2023,Home & Living,120328.86,Cash,Pending,Red Star Express
+201,Ibrahim Garba,Calabar,5/22/2023,6/3/2023,Beauty & Personal Care,44296.34,Bank Transfer,Delayed,Courier Plus
+66,Yemi Bello,Sokoto,7/29/2023,2/8/2023,Home & Living,35286.5,Cash,Delivered,GIG Logistics
+35,Peter Salami,Onitsha,12/19/2023,12/31/2023,Fashion & Apparel,18813.66,Bank Transfer,Delivered,Jumia Logistics
+186,Unknown,Sokoto,1/5/2023,1/9/2023,Books,58114.15,Bank Transfer,Delivered,Jumia Logistics
+308,Chukwu Adeleke,Port Harcourt,5/5/2023,5/11/2023,Food & Drink,114307.51,Bank Transfer,Delayed,Kwik Delivery
+416,Sola Okonkwo,Aba,2/14/2023,2/18/2023,Home & Living,1764322.13,Card,Delayed,Kwik Delivery
+360,Zainab Abiodun,Aba,4/3/2023,4/16/2023,Electronics,123656.47,Mobile Money,Pending,Kwik Delivery
+163,Sarah Olawale,Jos,12/30/2023,1/13/2024,Food & Drink,0,USSD,Delivered,GIG Logistics
+251,Paul Abiodun,Asaba,1/11/2024,1/24/2024,Beauty & Personal Care,99085.12,USSD,Delayed,Sendbox
+329,James Olawale,Warri,5/29/2023,4/6/2023,Sports & Fitness,120136.85,USSD,In Transit,Red Star Express
+11,Paul Olawale,Kano,2/25/2023,8/3/2023,Beauty & Personal Care,0,USSD,Canceled,Red Star Express
+549,Ibrahim Chukwuemeka,Calabar,7/5/2023,5/18/2023,Automotive,100462.79,USSD,Delayed,Red Star Express
+412,John Maikudi,Sokoto,3/11/2023,3/25/2023,Automotive,119756.81,Cash,Delivered,Sendbox
+495,Aliyu Nwachukwu,Ibadan,1/18/2023,1/26/2023,Automotive,83173.56,USSD,Delivered,GIG Logistics
+324,Ade Nwachukwu,Uyo,1/10/2023,8/10/2023,Automotive,123981.47,USSD,Delivered,Kwik Delivery
+577,Hauwa Okafor,Unknown,7/7/2023,7/17/2023,Books,76791.41,Card,Delivered,GIG Logistics
+465,Unknown,Jos,2/15/2023,2/19/2023,Home & Living,12079.59,USSD,Delivered,Jumia Logistics
+83,Tunde Ogundimu,Enugu,12/1/2024,1/21/2024,Sports & Fitness,49860.07,USSD,Returned,Kwik Delivery
+507,Bolu Afolabi,Aba,4/22/2023,5/4/2023,Automotive,71956.7,Card,Delivered,DHL
+572,Sarah Maikudi,Calabar,3/6/2023,6/14/2023,Fashion & Apparel,119932.63,USSD,Delivered,Jumia Logistics
+136,David Adeleke,Unknown,6/20/2023,6/23/2023,Home & Living,144610.53,Mobile Money,Delayed,Kwik Delivery
+450,Zainab Afolabi,Ibadan,12/31/2023,1/13/2024,Fashion & Apparel,142708.23,Bank Transfer,Delivered,Kwik Delivery
+50,Mary Garba,Maiduguri,9/18/2023,9/29/2023,Sports & Fitness,103856.71,Cash,Pending,GIG Logistics
+102,Aliyu Abiodun,Abeokuta,4/28/2024,11/5/2024,Beauty & Personal Care,97238.79,Card,Delayed,Kwik Delivery
+436,Fatima Okonkwo,Asaba,5/26/2024,5/28/2024,Stationery,0,Bank Transfer,Returned,Jumia Logistics
+405,Tunde Babatunde,Benin City,1/21/2023,1/2/2023,Automotive,1239256.81,Bank Transfer,Delivered,Red Star Express
+97,Blessing Babatunde,Lagos,3/11/2023,4/11/2023,Sports & Fitness,116648.14,Card,Delivered,Kwik Delivery
+160,Mary Ogundimu,Kaduna,3/19/2024,3/26/2024,Sports & Fitness,23146.08,Bank Transfer,Delivered,Courier Plus
+133,Sunday Chukwuemeka,Enugu,12/6/2024,6/15/2024,Books,142116041,Mobile Money,Delivered,DHL
+219,Fatima Nwachukwu,Kano,3/20/2023,3/25/2023,Books,72745.98,Bank Transfer,Delivered,GIG Logistics
+583,Chidi Ogundimu,Calabar,4/1/2023,4/15/2023,Home & Living,40198,Bank Transfer,Delivered,Kwik Delivery
+260,Emeka Olawale,Owerri,5/31/2024,6/7/2024,Books,75771.64,Bank Transfer,Delivered,DHL
+63,David Garba,Onitsha,10/13/2023,10/26/2023,Home & Living,47038.72,Card,Canceled,Kwik Delivery
+166,Paul Babatunde,Lagos,1/1/2024,1/11/2024,Electronics,138234.69,Bank Transfer,Delayed,DHL
+452,Zainab Maikudi,Uyo,4/13/2023,4/18/2023,Home & Living,45900.9,USSD,Canceled,Red Star Express
+546,Sunday Adeleke,Onitsha,7/2/2024,2/18/2024,Food & Drink,44295.96,Cash,Delivered,Kwik Delivery
+196,John Afolabi,Benin City,12/5/2023,12/6/2023,Automotive,67766.69,USSD,Delivered,Kwik Delivery
+381,Aliyu Salami,Warri,12/19/2023,12/28/2023,Stationery,54678.08,Bank Transfer,Delivered,Kwik Delivery
+336,James Adeyemi,Enugu,12/31/2023,12/28/2023,Home & Living,48115.35,Cash,In Transit,Jumia Logistics
+18,Hauwa Nwachukwu,Unknown,1/6/2023,2/6/2023,Fashion & Apparel,132736.07,Bank Transfer,Canceled,Red Star Express
+61,Yemi Okonkwo,Ibadan,9/4/2024,4/21/2024,Fashion & Apparel,14891.29,Cash,Delayed,Courier Plus
+579,Sola Abiodun,Onitsha,10/19/2023,10/24/2023,Beauty & Personal Care,15300.43,Bank Transfer,Delayed,Courier Plus
+600,Ibrahim Ogundimu,Abeokuta,6/20/2023,7/4/2023,Fashion & Apparel,0,Cash,Returned,Kwik Delivery
+112,Uche Chukwuemeka,Owerri,11/8/2023,8/24/2023,Food & Drink,22345.8,Bank Transfer,Delivered,Courier Plus
+30,Emeka Danladi,Owerri,9/11/2023,9/12/2023,Automotive,55965.38,Card,Canceled,GIG Logistics
+393,Sunday Danladi,Enugu,5/13/2023,5/22/2023,Food & Drink,0,Cash,Delayed,Jumia Logistics
+351,Ngozi Adeyemi,Uyo,1/22/2024,1/28/2024,Home & Living,14544474,Card,Canceled,Jumia Logistics
+108,Tunde Maikudi,Aba,3/28/2024,4/1/2024,Home & Living,85022.77,Cash,Delivered,Sendbox
+330,David Chukwuemeka,Port Harcourt,5/23/2023,5/25/2023,Electronics,87931.28,Cash,Delivered,Sendbox
+449,Aisha Okonkwo,Abeokuta,8/5/2023,8/6/2023,Books,133632.68,Bank Transfer,Delayed,Courier Plus
+539,Blessing Chukwuemeka,Ibadan,10/4/2023,10/16/2023,Automotive,111410.85,Cash,Returned,Red Star Express
+522,John Babatunde,Abeokuta,8/5/2024,5/10/2024,Books,30483.59,Cash,Delivered,Jumia Logistics
+379,Chidi Bello,Sokoto,7/26/2023,9/8/2023,Automotive,109930.7,Card,Delivered,Courier Plus
+93,Zainab Abiodun,Owerri,2/21/2023,2/28/2023,Beauty & Personal Care,77694,Cash,Delivered,Courier Plus
+478,Zainab Eze,Ibadan,4/16/2023,4/25/2023,Electronics,139435.65,Bank Transfer,Canceled,Red Star Express
+104,Bolu Bello,Maiduguri,5/20/2024,5/23/2024,Home & Living,118824.38,Bank Transfer,In Transit,Red Star Express
+225,Musa Garba,Jos,10/10/2023,10/17/2023,Sports & Fitness,116354.98,Bank Transfer,Canceled,Kwik Delivery
+538,Uche Olawale,Unknown,8/22/2023,8/25/2023,Automotive,3020.6,Cash,Returned,Red Star Express
+410,Musa Eze,Maiduguri,4/3/2023,3/11/2023,Sports & Fitness,10802.75,Card,Canceled,GIG Logistics
+350,Yemi Abiodun,Aba,11/16/2023,11/28/2023,Automotive,85639.36,Cash,Delayed,GIG Logistics
+6,Musa Ogundimu,Ilorin,5/20/2024,5/21/2024,Automotive,83430.66,Card,Canceled,Sendbox
+389,James Garba,Port Harcourt,5/11/2023,11/14/2023,Sports & Fitness,95717.14,Cash,Canceled,Kwik Delivery
+198,Ngozi Chukwuemeka,Jos,4/29/2024,5/5/2024,Groceries,134634.69,USSD,Delivered,DHL
+81,Ibrahim Salami,Abeokuta,12/7/2023,12/13/2023,Home & Living,141597.17,Bank Transfer,Returned,Jumia Logistics
+384,Musa Bello,Abuja,2/21/2023,1/3/2023,Fashion & Apparel,130759.55,Bank Transfer,Delivered,Sendbox
+446,Paul Adeyemi,Ilorin,4/22/2023,5/5/2023,Electronics,1235.21,USSD,Delivered,Kwik Delivery
+428,David Chukwuemeka,Owerri,10/10/2023,10/13/2023,Automotive,110856.32,USSD,Returned,Sendbox
+573,Yemi Bello,Maiduguri,3/12/2023,12/16/2023,Food & Drink,76340.87,USSD,Delivered,DHL
+120,Bolu Maikudi,Jos,7/3/2023,7/5/2023,Books,61498.08,Bank Transfer,In Transit,GIG Logistics
+4,David Abiodun,Benin City,12/30/2023,1/4/2024,Automotive,138883.29,Bank Transfer,Delivered,DHL
+481,Sarah Afolabi,Kano,6/25/2024,6/29/2024,Fashion & Apparel,136914.35,Bank Transfer,Returned,GIG Logistics
+275,Ngozi Eze,Lagos,3/5/2024,3/17/2024,Electronics,75297.69,USSD,Delivered,Red Star Express
+312,Yemi Bello,Unknown,7/27/2023,8/9/2023,Home & Living,119172.15,Bank Transfer,Delivered,DHL
+564,Peter Salami,Maiduguri,8/4/2023,8/16/2023,Electronics,41274.49,Cash,Delivered,Red Star Express
+587,Tunde Olawale,Calabar,5/13/2023,5/14/2023,Electronics,80785.43,USSD,Delivered,Jumia Logistics
+347,Aisha Adeleke,Kano,5/31/2024,6/6/2024,Automotive,66940.87,Bank Transfer,In Transit,Jumia Logistics
+338,Ibrahim Salami,Asaba,1/18/2023,1/23/2023,Home & Living,0,Bank Transfer,In Transit,DHL
+370,Sola Danladi,Aba,1/5/2023,1/15/2023,Sports & Fitness,19176.65,Card,Delivered,GIG Logistics
+246,Aisha Afolabi,Abeokuta,12/5/2023,12/18/2023,Beauty & Personal Care,0,Bank Transfer,Returned,DHL
+505,Zainab Babatunde,Asaba,5/24/2023,3/6/2023,Automotive,94070.15,Card,Delivered,Jumia Logistics
+525,Tunde Afolabi,Kaduna,3/12/2023,12/13/2023,Beauty & Personal Care,107723.58,Card,Canceled,Kwik Delivery
+41,Aisha Okonkwo,Enugu,4/4/2023,4/15/2023,Automotive,88214.11,USSD,Delivered,Jumia Logistics
+6,Musa Ogundimu,Unknown,5/20/2024,5/21/2024,Automotive,83430.66,Card,Canceled,Sendbox
+284,Aliyu Danladi,Uyo,1/26/2023,2/4/2023,Food & Drink,15639.48,Bank Transfer,Returned,Red Star Express
+263,Grace Okafor,Calabar,1/15/2023,1/28/2023,Beauty & Personal Care,39540.04,Bank Transfer,Delayed,Red Star Express
+39,Sola Babatunde,Maiduguri,2/23/2024,4/3/2024,Beauty & Personal Care,94133.64,Bank Transfer,Delivered,Kwik Delivery
+448,Chukwu Bello,Aba,4/22/2023,4/25/2023,Beauty & Personal Care,114319.51,Cash,In Transit,GIG Logistics
+355,Mary Chukwuemeka,Kano,2/27/2024,3/3/2024,Beauty & Personal Care,124257.09,Mobile Money,Delayed,DHL
+188,Aliyu Afolabi,Benin City,12/17/2023,12/25/2023,Home & Living,0,Cash,Delayed,Red Star Express
+68,Sola Olawale,Port Harcourt,2/15/2024,2/22/2024,Fashion & Apparel,135982.49,Bank Transfer,Delivered,DHL
+125,Emeka Nwosu,Maiduguri,6/1/2023,1/14/2023,Books,1030871.43,Cash,Delivered,Red Star Express
+40,David Babatunde,Maiduguri,9/30/2023,10/2/2023,Books,74575.49,Card,Returned,Jumia Logistics
+173,Hauwa Maikudi,Asaba,9/2/2024,2/21/2024,Fashion & Apparel,0,Bank Transfer,Delivered,Red Star Express
+440,Tunde Ogundimu,Warri,4/4/2023,4/13/2023,Beauty & Personal Care,91271.83,USSD,Delivered,GIG Logistics
+340,Sarah Adeyemi,Jos,11/1/2023,1/24/2023,Fashion & Apparel,141334.9,Cash,Delivered,Sendbox
+494,Michael Danladi,Abeokuta,12/8/2023,12/19/2023,Books,63854.27,Bank Transfer,Delivered,GIG Logistics
+386,Musa Chukwuemeka,Sokoto,1/5/2024,1/9/2024,Books,77907.14,Card,Delivered,Kwik Delivery
+445,Chukwu Nwosu,Kaduna,1/13/2023,1/15/2023,Home & Living,104083.68,USSD,Delivered,Sendbox
+511,Paul Okafor,Ibadan,11/21/2023,2/12/2023,Fashion & Apparel,146875.77,Bank Transfer,Delivered,DHL
+32,Blessing Nwachukwu,Maiduguri,6/2/2024,6/3/2024,Books,144855.59,Mobile Money,Delivered,Courier Plus
+243,Musa Babatunde,Lagos,5/18/2024,5/26/2024,Beauty & Personal Care,66128.85,Mobile Money,Delivered,Red Star Express
+96,James Salami,Uyo,2/11/2023,9/2/2023,Food & Drink,59550.23,Cash,Delivered,Courier Plus
+248,Yemi Okafor,Onitsha,2/23/2023,2/27/2023,Books,3.06,USSD,Delivered,DHL
+208,Ngozi Abiodun,Unknown,10/31/2023,11/4/2023,Fashion & Apparel,116263.76,USSD,Delivered,Kwik Delivery
+460,Ngozi Nwachukwu,Enugu,6/1/2023,6/8/2023,Fashion & Apparel,89415.47,USSD,Delivered,Red Star Express
+202,Sarah Ogundimu,Calabar,11/27/2023,12/10/2023,Books,0,Card,Delivered,Jumia Logistics
+75,Sunday Babatunde,Maiduguri,6/19/2023,6/20/2023,Beauty & Personal Care,117871.17,Bank Transfer,Delayed,Red Star Express
+404,Ade Afolabi,Jos,3/21/2023,4/4/2023,Home & Living,104857.49,USSD,Pending,GIG Logistics
+591,Aisha Garba,Maiduguri,9/8/2023,9/16/2023,Electronics,67615.71,Card,Delivered,Sendbox
+62,Zainab Adeleke,Asaba,4/12/2023,12/11/2023,Food & Drink,32698.08,Bank Transfer,Delivered,Jumia Logistics
+286,Ngozi Okafor,Calabar,3/27/2024,4/1/2024,Beauty & Personal Care,0,Cash,Delivered,Jumia Logistics
+576,David Bello,Abuja,5/9/2023,7/9/2023,Food & Drink,94993.97,USSD,Returned,DHL
+77,Hauwa Nwachukwu,Sokoto,9/6/2024,6/16/2024,Books,58538.75,Bank Transfer,Delivered,Sendbox
+268,Michael Garba,Kano,5/29/2023,8/6/2023,Food & Drink,115049.82,Mobile Money,Delivered,Sendbox
+454,Aisha Nwosu,Ilorin,5/18/2024,5/30/2024,Books,18237.8,Card,Returned,Kwik Delivery
+559,Aliyu Nwosu,Abeokuta,12/21/2023,12/28/2023,Sports & Fitness,6304.41,Cash,Delivered,GIG Logistics
+69,Sunday Salami,Owerri,6/6/2023,6/17/2023,Groceries,66524.66,Cash,Delayed,Courier Plus
+558,Bolu Olawale,Abuja,9/27/2023,9/28/2023,Beauty & Personal Care,50111.77,Card,Delivered,Courier Plus
+502,Grace Adeleke,Ibadan,5/29/2024,6/1/2024,Fashion & Apparel,108050.94,Bank Transfer,Returned,Courier Plus
+5,Bolu Danladi,Maiduguri,11/20/2023,11/22/2023,Sports & Fitness,84643.85,USSD,Delivered,DHL
+461,Aisha Nwosu,Ilorin,11/6/2023,11/9/2023,Automotive,0,Bank Transfer,Delayed,Red Star Express
+362,Peter Eze,Sokoto,11/18/2023,11/20/2023,Automotive,0,Cash,Delivered,Jumia Logistics
+359,Peter Chukwuemeka,Ilorin,1/22/2023,2/1/2023,Groceries,130175.99,USSD,Canceled,Jumia Logistics
+346,Fatima Afolabi,Aba,12/4/2023,4/26/2023,Sports & Fitness,114265.55,Mobile Money,Delivered,Red Star Express
+118,Paul Garba,Calabar,5/17/2024,5/29/2024,Electronics,100564.12,USSD,Canceled,GIG Logistics
+242,Grace Garba,Unknown,3/21/2024,1/4/2024,Sports & Fitness,24201.91,Bank Transfer,Delivered,GIG Logistics
+79,Ngozi Danladi,Lagos,2/18/2023,3/1/2023,Home & Living,92606.63,USSD,Delayed,Courier Plus
+489,Emeka Chukwuemeka,Onitsha,4/13/2023,4/14/2023,Electronics,16844.5,Cash,Delivered,Red Star Express
+58,Mary Okafor,Jos,5/29/2023,6/7/2023,Food & Drink,8807.45,Card,Delivered,Sendbox
+181,Ibrahim Afolabi,Lagos,12/24/2023,12/28/2023,Sports & Fitness,72779.02,Cash,Delivered,Jumia Logistics
+403,David Olawale,Ibadan,9/9/2023,9/15/2023,Automotive,101233.25,Mobile Money,In Transit,Kwik Delivery
+43,Aisha Danladi,Abuja,4/18/2024,4/22/2024,Sports & Fitness,43916.34,USSD,Delivered,Courier Plus
+215,Hauwa Okafor,Lagos,7/21/2023,8/1/2023,Beauty & Personal Care,81976.93,USSD,Delivered,Sendbox
+387,Amara Afolabi,Ibadan,3/13/2023,3/19/2023,Electronics,120061.54,Cash,Delivered,Kwik Delivery
+82,Amara Adeyemi,Abuja,6/11/2024,6/25/2024,Food & Drink,55834.86,Mobile Money,Delivered,Red Star Express
+134,Yemi Adeyemi,Onitsha,3/6/2023,3/19/2023,Food & Drink,0,Cash,In Transit,Kwik Delivery
+269,Aisha Okonkwo,Asaba,6/5/2023,6/7/2023,Beauty & Personal Care,54529.94,USSD,Delivered,Red Star Express
+517,Ibrahim Garba,Aba,5/10/2023,5/21/2023,Fashion & Apparel,517307.18,Bank Transfer,Delayed,GIG Logistics
+371,Yemi Adeleke,Maiduguri,5/6/2024,5/11/2024,Home & Living,120432.14,Card,Delivered,Red Star Express
+560,Zainab Afolabi,Lagos,1/27/2023,2/9/2023,Electronics,104620.64,USSD,Delivered,GIG Logistics
+547,Emeka Chukwuemeka,Ibadan,2/24/2023,3/5/2023,Sports & Fitness,1961.17,Bank Transfer,Delivered,Courier Plus
+278,Blessing Maikudi,Kaduna,4/27/2024,9/5/2024,Electronics,146923.14,Card,Returned,Sendbox
+294,Peter Afolabi,Sokoto,2/1/2023,2/13/2023,Home & Living,83757.82,Cash,Delivered,DHL
+586,Aliyu Adeleke,Benin City,2/26/2024,3/5/2024,Electronics,33975.2,Bank Transfer,Delayed,Courier Plus
+305,Kemi Abiodun,Onitsha,3/19/2023,3/24/2023,Books,9948.74,Cash,Delivered,DHL
+105,Emeka Danladi,Benin City,6/11/2024,6/18/2024,Sports & Fitness,113309.74,Cash,Returned,Jumia Logistics
+335,Peter Bello,Owerri,7/5/2024,5/21/2024,Sports & Fitness,22774.43,Bank Transfer,Delivered,Jumia Logistics
+190,James Bello,Kano,10/4/2023,10/16/2023,Beauty & Personal Care,40186.09,Bank Transfer,Returned,DHL
+140,Zainab Eze,Ibadan,5/19/2023,1/6/2023,Home & Living,37885.66,Mobile Money,Delivered,Jumia Logistics
+158,Chukwu Salami,Calabar,9/6/2024,6/6/2024,Fashion & Apparel,0,Card,Returned,DHL
+17,John Okonkwo,Maiduguri,9/3/2024,10/3/2024,Books,4.69,Bank Transfer,Delivered,Courier Plus
+593,Grace Olawale,Benin City,1/6/2023,1/10/2023,Automotive,83666.28,Card,Delivered,Red Star Express
+262,Sunday Adeleke,Benin City,6/23/2023,7/3/2023,Food & Drink,0,Card,Pending,Sendbox
+420,Aliyu Nwachukwu,Port Harcourt,2/10/2024,2/17/2024,Fashion & Apparel,53384.67,USSD,Delayed,Red Star Express
+122,Sarah Adeleke,Aba,5/1/2024,3/5/2024,Beauty & Personal Care,123282.92,Card,Delivered,Courier Plus
+103,Ibrahim Afolabi,Enugu,2/8/2023,2/11/2023,Electronics,90814.66,Cash,Delivered,Courier Plus
+53,Musa Bello,Port Harcourt,9/21/2023,9/29/2023,Beauty & Personal Care,147011.39,Cash,Returned,Jumia Logistics
+566,Musa Bello,Warri,12/16/2023,12/26/2023,Books,115582.84,Mobile Money,Returned,DHL
+443,Hauwa Adeleke,Kano,1/29/2024,9/2/2024,Home & Living,143607.43,Cash,Returned,Kwik Delivery
+147,John Adeleke,Benin City,6/14/2024,6/18/2024,Books,96074.27,Card,Pending,Red Star Express
+353,Bolu Ogundimu,Asaba,5/31/2024,6/7/2024,Home & Living,0,USSD,In Transit,Kwik Delivery
+513,Uche Ogundimu,Asaba,7/1/2023,7/4/2023,Fashion & Apparel,14356.05,USSD,Delivered,Courier Plus
+496,Paul Okafor,Sokoto,5/22/2023,6/3/2023,Electronics,87659.45,Bank Transfer,Delivered,GIG Logistics
+592,Tunde Eze,Abeokuta,4/8/2023,4/12/2023,Electronics,47406.79,Bank Transfer,Delivered,Courier Plus
+129,Mary Danladi,Warri,8/3/2023,8/8/2023,Sports & Fitness,64046.07,USSD,Delivered,Courier Plus
+290,Sola Garba,Abeokuta,6/29/2024,7/9/2024,Fashion & Apparel,104414.92,USSD,Returned,Kwik Delivery
+459,Sunday Abiodun,Maiduguri,11/28/2023,12/8/2023,Sports & Fitness,12084941,Card,Returned,GIG Logistics
+319,Zainab Maikudi,Kaduna,6/24/2023,3/7/2023,Automotive,109772.65,Bank Transfer,Delivered,DHL
+111,Musa Ogundimu,Lagos,12/21/2023,12/25/2023,Beauty & Personal Care,6002.87,Card,Returned,Red Star Express
+423,John Maikudi,Ibadan,2/20/2024,4/3/2024,Beauty & Personal Care,32271.38,Mobile Money,Delivered,Jumia Logistics
+345,Aisha Afolabi,Asaba,10/13/2023,10/26/2023,Automotive,0,Cash,Delivered,DHL
+342,Sola Ogundimu,Aba,7/5/2023,7/12/2023,Automotive,74876.59,Cash,Returned,Jumia Logistics
+369,Grace Bello,Ibadan,3/28/2024,4/9/2024,Food & Drink,43333.35,Cash,Canceled,DHL
+256,Sola Garba,Calabar,2/27/2024,5/3/2024,Food & Drink,60166.49,Cash,Delivered,Jumia Logistics
+383,Sola Bello,Abeokuta,2/2/2023,8/2/2023,Food & Drink,115744.14,Bank Transfer,Delayed,Courier Plus
+396,Zainab Abiodun,Owerri,2/16/2023,2/24/2023,Fashion & Apparel,29671.58,Card,In Transit,Red Star Express
+143,Hauwa Babatunde,Onitsha,1/1/2023,1/8/2023,Food & Drink,100011.81,Card,In Transit,Kwik Delivery
+485,John Chukwuemeka,Kaduna,2/10/2023,2/15/2023,Fashion & Apparel,95269.75,Cash,Pending,Jumia Logistics
+7,James Abiodun,Kano,4/25/2023,4/28/2023,Beauty & Personal Care,25070.81,Card,Delivered,GIG Logistics
+447,Grace Abiodun,Kano,6/24/2023,6/27/2023,Beauty & Personal Care,112737.44,Bank Transfer,Pending,Red Star Express
+12,Fatima Ogundimu,Kaduna,11/4/2023,6/4/2023,Electronics,147811.02,USSD,Delivered,Sendbox
+542,Grace Babatunde,Jos,2/11/2023,2/25/2023,Electronics,131929.59,Bank Transfer,Returned,Kwik Delivery
+487,Sarah Afolabi,Benin City,7/31/2023,4/8/2023,Books,72372.03,USSD,Canceled,DHL
+238,Uche Salami,Ibadan,5/14/2024,5/22/2024,Food & Drink,86174,Card,Delivered,Jumia Logistics
+234,Peter Okafor,Kaduna,4/13/2024,4/25/2024,Fashion & Apparel,0,Cash,Delivered,Jumia Logistics
+363,Chidi Garba,Benin City,2/7/2024,2/21/2024,Automotive,127922.8,USSD,Delivered,Jumia Logistics
+348,Aisha Bello,Abeokuta,5/18/2024,5/23/2024,Automotive,76496.07,USSD,Pending,Kwik Delivery
+500,Uche Abiodun,Port Harcourt,3/21/2023,3/4/2023,Electronics,31057.16,Bank Transfer,Delivered,Courier Plus
+307,Peter Olawale,Owerri,1/1/2023,12/1/2023,Automotive,126763.32,Card,Delivered,Kwik Delivery
+59,Amara Maikudi,Lagos,6/9/2024,6/17/2024,Automotive,17086.31,USSD,Canceled,Courier Plus
+233,Fatima Maikudi,Benin City,1/16/2024,1/24/2024,Home & Living,64053.2,Card,Delivered,Sendbox
+574,Mary Eze,Warri,5/9/2023,5/13/2023,Food & Drink,63732.37,USSD,Canceled,GIG Logistics
+598,Yemi Okonkwo,Asaba,4/15/2023,4/24/2023,Beauty & Personal Care,1236,Bank Transfer,Delivered,Jumia Logistics
+204,Bolu Salami,Jos,11/17/2023,11/18/2023,Beauty & Personal Care,147534.55,Bank Transfer,Delivered,GIG Logistics
+372,Zainab Adeyemi,Ilorin,2/13/2024,2/17/2024,Home & Living,120363.96,Cash,Delayed,Kwik Delivery
+302,Chukwu Olawale,Abuja,5/29/2023,5/6/2023,Food & Drink,98157.82,Cash,Canceled,Kwik Delivery
+3,Sarah Adeyemi,Abuja,3/22/2023,4/5/2023,Beauty & Personal Care,128442.34,USSD,Delivered,DHL
+397,Unknown,Owerri,1/20/2023,1/29/2023,Fashion & Apparel,48744.24,USSD,Delivered,Red Star Express
+510,Chukwu Okafor,Asaba,6/14/2023,6/21/2023,Fashion & Apparel,92860.34,Cash,Delivered,DHL
+47,Aliyu Salami,Ibadan,12/6/2023,12/20/2023,Home & Living,145411.34,USSD,Canceled,Sendbox
+226,Chukwu Olawale,Asaba,2/4/2024,4/5/2024,Home & Living,1788.3,Bank Transfer,Pending,GIG Logistics
+19,Kemi Abiodun,Kano,7/3/2023,7/9/2023,Electronics,122671.4,Cash,Delivered,DHL
+169,David Danladi,Sokoto,1/20/2024,1/22/2024,Books,50333.09,USSD,Returned,Courier Plus
+395,Emeka Eze,Maiduguri,11/14/2023,11/20/2023,Automotive,49457.23,Mobile Money,Delivered,Jumia Logistics
+401,Chidi Salami,Asaba,9/9/2023,9/16/2023,Home & Living,138349.8,Cash,Delivered,Sendbox
+439,Musa Chukwuemeka,Ilorin,12/17/2023,12/26/2023,Home & Living,10627.92,Bank Transfer,Delayed,DHL
+429,Fatima Ogundimu,Enugu,2/5/2024,2/18/2024,Fashion & Apparel,7506.01,Bank Transfer,Canceled,Jumia Logistics
+292,Bolu Eze,Lagos,1/24/2024,4/2/2024,Home & Living,59107.42,Bank Transfer,Delayed,Jumia Logistics
+94,Grace Danladi,Lagos,4/9/2023,10/9/2023,Books,109398.7,Cash,Delivered,Courier Plus
+427,Grace Nwosu,Kaduna,2/25/2024,2/27/2024,Beauty & Personal Care,106741.07,Cash,Delivered,Kwik Delivery
+107,Mary Nwosu,Uyo,4/27/2024,5/10/2024,Fashion & Apparel,124487.33,Bank Transfer,Delayed,Jumia Logistics
+116,Michael Nwachukwu,Jos,3/9/2023,9/16/2023,Automotive,108639.62,Cash,Delivered,GIG Logistics
+377,Musa Babatunde,Ibadan,5/13/2024,5/27/2024,Beauty & Personal Care,0,Card,Delivered,Kwik Delivery
+453,Ngozi Ogundimu,Lagos,9/4/2023,9/7/2023,Food & Drink,33836.03,USSD,Delayed,Kwik Delivery
+540,Unknown,Jos,10/8/2023,10/19/2023,Books,149097.61,Card,Delayed,Sendbox
+356,Unknown,Abeokuta,7/10/2023,10/12/2023,Electronics,45398.9,USSD,Delayed,Red Star Express
+245,Uche Okonkwo,Maiduguri,1/20/2023,1/29/2023,Beauty & Personal Care,74543.35,Cash,Pending,Kwik Delivery
+247,Grace Afolabi,Warri,4/2/2023,2/16/2023,Home & Living,111963.96,Card,Delivered,DHL
+365,Kemi Chukwuemeka,Benin City,7/13/2023,7/20/2023,Automotive,7.53,USSD,Returned,Red Star Express
+473,Aliyu Maikudi,Aba,1/3/2023,1/13/2023,Automotive,92714.01,Cash,Delivered,DHL
+250,Michael Babatunde,Abeokuta,2/1/2024,1/7/2024,Home & Living,110127.96,Bank Transfer,Delayed,Jumia Logistics
+123,James Nwachukwu,Sokoto,12/6/2023,12/18/2023,Fashion & Apparel,92465.92,Cash,In Transit,Red Star Express
+527,Amara Olawale,Port Harcourt,10/19/2023,10/26/2023,Fashion & Apparel,108764.8,Cash,Delivered,Red Star Express
+165,Sarah Bello,Aba,6/22/2024,6/24/2024,Home & Living,118984.54,Cash,Returned,Kwik Delivery
+529,Ngozi Adeleke,Port Harcourt,6/1/2023,1/20/2023,Groceries,122060.34,Bank Transfer,Delayed,DHL
+532,John Eze,Kano,10/6/2024,6/23/2024,Beauty & Personal Care,68412.35,Bank Transfer,Delivered,Jumia Logistics
+240,Chidi Afolabi,Port Harcourt,2/11/2024,2/13/2024,Sports & Fitness,98570.07,Cash,Delivered,Red Star Express
+441,David Ogundimu,Abeokuta,2/12/2024,2/20/2024,Books,114069.89,Bank Transfer,Returned,Red Star Express
+361,Ade Ogundimu,Calabar,4/13/2023,4/25/2023,Automotive,578148.23,USSD,Delivered,Kwik Delivery
+296,Chidi Danladi,Benin City,4/5/2024,4/9/2024,Sports & Fitness,86876.5,Card,Delivered,GIG Logistics
+523,David Okonkwo,Asaba,7/30/2023,8/7/2023,Books,53584.41,Card,Delivered,Courier Plus
+71,Peter Nwosu,Enugu,5/28/2024,5/29/2024,Beauty & Personal Care,66473.85,Bank Transfer,Delivered,Red Star Express
+519,Aliyu Bello,Warri,1/24/2023,3/2/2023,Home & Living,126848.92,Bank Transfer,Delivered,Red Star Express
+99,Fatima Salami,Aba,11/29/2023,12/7/2023,Sports & Fitness,143643.27,Cash,Pending,Sendbox
+571,Ade Adeleke,Ibadan,4/26/2024,1/5/2024,Electronics,121397.1,Cash,Delivered,GIG Logistics
+569,Emeka Adeleke,Abuja,9/23/2023,9/26/2023,Automotive,83457.75,Cash,Delivered,Courier Plus
+31,Peter Adeyemi,Benin City,1/27/2023,2/6/2023,Sports & Fitness,19037.2,Card,In Transit,Jumia Logistics
+506,Emeka Bello,Enugu,2/28/2023,3/4/2023,Books,131249.67,Cash,Delivered,Sendbox
+128,Sarah Chukwuemeka,Onitsha,11/18/2023,11/25/2023,Food & Drink,30770.21,Bank Transfer,Returned,Kwik Delivery
+2,Peter Ogundimu,Ibadan,5/3/2024,3/15/2024,Food & Drink,15410.74,Cash,Returned,GIG Logistics
+374,Blessing Nwosu,Abeokuta,6/23/2024,2/7/2024,Home & Living,45760.89,USSD,Delayed,GIG Logistics
+28,Ibrahim Salami,Asaba,2/3/2024,2/14/2024,Books,5038.2,Bank Transfer,Delivered,Jumia Logistics
+90,John Abiodun,Owerri,5/9/2023,5/19/2023,Home & Living,135398.13,Card,Canceled,GIG Logistics
+309,Grace Nwosu,Maiduguri,11/3/2023,11/5/2023,Home & Living,108241.12,Mobile Money,Delivered,Kwik Delivery
+74,Sola Eze,Warri,7/1/2024,1/11/2024,Electronics,0,USSD,Delivered,Sendbox
+475,Emeka Nwachukwu,Lagos,10/3/2023,10/11/2023,Beauty & Personal Care,6998.19,Cash,Delivered,Red Star Express
+172,Mary Nwachukwu,Sokoto,3/5/2023,3/17/2023,Electronics,63376.18,USSD,Canceled,Jumia Logistics
+378,Uche Salami,Sokoto,3/22/2024,4/5/2024,Fashion & Apparel,111078.4,Mobile Money,Delivered,Courier Plus
+434,Hauwa Bello,Enugu,12/12/2023,12/23/2023,Electronics,122528.03,Bank Transfer,Delivered,Red Star Express
+550,Sunday Bello,Lagos,4/20/2024,4/27/2024,Electronics,98921.53,Cash,Delivered,Red Star Express
+366,Aliyu Chukwuemeka,Jos,9/20/2023,9/29/2023,Electronics,57759.71,Cash,Pending,GIG Logistics
+534,Yemi Adeleke,Jos,3/17/2024,3/24/2024,Electronics,13927497,Bank Transfer,Delivered,Courier Plus
+126,Emeka Okonkwo,Unknown,9/6/2023,9/9/2023,Fashion & Apparel,63744.25,Card,Delivered,Kwik Delivery
+599,Yemi Babatunde,Kano,2/23/2023,3/8/2023,Books,106230.44,Cash,Delivered,Sendbox
+316,Musa Salami,Abuja,8/1/2024,1/15/2024,Home & Living,0,Bank Transfer,Delivered,Jumia Logistics
+408,Hauwa Okafor,Benin City,4/4/2024,11/4/2024,Books,30334.65,Card,Delayed,Red Star Express
+411,Sunday Afolabi,Sokoto,2/25/2024,3/6/2024,Groceries,117656.44,Cash,Delivered,GIG Logistics
+239,Hauwa Salami,Jos,10/26/2023,11/5/2023,Books,4442.06,Cash,Returned,DHL
+480,Kemi Bello,Onitsha,2/23/2023,1/3/2023,Food & Drink,15436.2,Bank Transfer,Delivered,Kwik Delivery
+484,Sarah Okafor,Uyo,10/6/2023,10/7/2023,Sports & Fitness,45158.19,Card,Delivered,DHL
+144,Grace Nwosu,Benin City,3/15/2024,3/27/2024,Automotive,0,USSD,Delivered,Red Star Express
+15,Bolu Maikudi,Jos,10/1/2023,1/20/2023,Beauty & Personal Care,66289.5,Cash,Pending,GIG Logistics
+582,John Okafor,Owerri,6/17/2024,7/1/2024,Beauty & Personal Care,71047.2,Bank Transfer,Delivered,DHL
+508,Aliyu Nwachukwu,Abeokuta,8/7/2023,8/8/2023,Electronics,142944.11,Cash,Delayed,DHL
+209,Amara Nwosu,Enugu,3/15/2023,3/18/2023,Fashion & Apparel,136737,Mobile Money,Delivered,Red Star Express
+132,Ade Danladi,Maiduguri,11/16/2023,11/29/2023,Fashion & Apparel,106906.07,Cash,Delivered,Kwik Delivery
+175,Sarah Bello,Owerri,3/5/2024,3/8/2024,Sports & Fitness,131806.14,USSD,Delayed,DHL
+192,Musa Olawale,Kano,4/20/2024,4/18/2024,Electronics,0,Cash,Pending,Kwik Delivery
+271,Chukwu Adeleke,Ilorin,5/16/2024,5/30/2024,Books,86218.23,Card,Delivered,Sendbox
+375,Mary Okonkwo,Owerri,6/9/2024,6/16/2024,Electronics,69968.96,USSD,Delivered,Jumia Logistics
+124,Mary Afolabi,Asaba,8/22/2023,8/29/2023,Beauty & Personal Care,40927.83,Bank Transfer,Delivered,GIG Logistics
+139,David Eze,Kaduna,12/26/2023,1/5/2024,Food & Drink,81276.51,Cash,In Transit,Courier Plus
+52,Musa Salami,Jos,5/21/2023,1/6/2023,Fashion & Apparel,6290996,Cash,Delivered,Sendbox
+221,Ibrahim Abiodun,Uyo,6/24/2023,7/1/2023,Home & Living,138430.44,Card,Delivered,GIG Logistics
+113,Ade Afolabi,Aba,6/29/2023,7/6/2023,Books,28397.97,Bank Transfer,Delivered,DHL
+407,Blessing Adeleke,Aba,6/29/2024,7/10/2024,Books,78226,Card,Delivered,Red Star Express
+273,Paul Maikudi,Owerri,6/13/2024,6/21/2024,Home & Living,0,Bank Transfer,Delivered,Kwik Delivery
+343,Mary Salami,Sokoto,4/29/2023,5/7/2023,Books,134318.44,Cash,Delivered,Red Star Express
+257,Aliyu Garba,Owerri,4/11/2023,8/11/2023,Home & Living,0,Cash,Delivered,Sendbox
+183,Zainab Abiodun,Calabar,2/5/2024,5/13/2024,Sports & Fitness,111396.91,Bank Transfer,Canceled,GIG Logistics
+106,Chukwu Maikudi,Warri,8/30/2023,8/29/2023,Sports & Fitness,0,Bank Transfer,Returned,Jumia Logistics
+301,Aisha Bello,Maiduguri,6/21/2023,3/7/2023,Automotive,142289.51,Bank Transfer,Delayed,Red Star Express
+437,James Chukwuemeka,Lagos,3/11/2023,3/21/2023,Electronics,19484.37,USSD,Delayed,DHL
+231,Tunde Afolabi,Aba,12/6/2024,6/24/2024,Home & Living,33566.35,Bank Transfer,Delayed,Red Star Express
+154,Grace Adeyemi,Calabar,11/8/2023,12/11/2023,Home & Living,4562.63,Card,Delivered,Red Star Express
+327,Musa Okonkwo,Jos,3/31/2024,10/4/2024,Electronics,0,Bank Transfer,Delayed,DHL
+476,Yemi Afolabi,Ilorin,5/2/2023,5/11/2023,Fashion & Apparel,19792.41,Card,Delayed,Kwik Delivery
+418,Bolu Garba,Ibadan,3/15/2024,3/19/2024,Beauty & Personal Care,0,USSD,Returned,Sendbox
+295,Mary Ogundimu,Ibadan,1/12/2023,1/13/2023,Home & Living,129162.76,USSD,Delivered,Red Star Express
+151,Kemi Nwosu,Uyo,1/31/2023,2/7/2023,Electronics,0,Card,Delayed,DHL
+501,Ade Babatunde,Uyo,10/5/2024,7/5/2024,Food & Drink,146103.76,Card,Delivered,Courier Plus
+164,Chidi Olawale,Kaduna,2/27/2023,3/3/2023,Groceries,120561.24,Card,Delivered,DHL
+168,Ngozi Danladi,Owerri,2/28/2024,3/6/2024,Home & Living,127018.61,Cash,Pending,Jumia Logistics
+376,Aliyu Abiodun,Port Harcourt,4/10/2024,4/18/2024,Sports & Fitness,80622.02,Card,Delivered,Red Star Express
+207,Aliyu Chukwuemeka,Aba,1/10/2023,1/16/2023,Fashion & Apparel,108872.37,Cash,Canceled,Red Star Express
+189,Amara Bello,Ilorin,2/19/2023,2/20/2023,Sports & Fitness,31618.74,Card,Delivered,Kwik Delivery
+524,Chukwu Okafor,Aba,2/24/2024,3/9/2024,Home & Living,33062.44,Bank Transfer,Delivered,Jumia Logistics
+325,Hauwa Abiodun,Port Harcourt,12/7/2023,7/20/2023,Home & Living,0,Bank Transfer,Pending,Jumia Logistics
+409,Ngozi Danladi,Aba,1/25/2023,5/2/2023,Food & Drink,141588.59,USSD,Delayed,GIG Logistics
+227,Aliyu Afolabi,Uyo,9/27/2023,9/29/2023,Electronics,6640684,Cash,Delivered,Courier Plus
+217,Mary Adeyemi,Unknown,5/14/2024,5/19/2024,Automotive,6945.8,Card,Pending,Sendbox
+512,James Bello,Maiduguri,1/15/2023,1/21/2023,Books,81827.59,Cash,Pending,Red Star Express
+203,Amara Nwachukwu,Kano,5/30/2023,6/11/2023,Beauty & Personal Care,58944.11,Cash,Delayed,Red Star Express
+299,Musa Okafor,Port Harcourt,4/29/2024,5/9/2024,Fashion & Apparel,38555.6,Cash,Delivered,Courier Plus
+552,David Abiodun,Uyo,3/11/2023,3/22/2023,Home & Living,143323.99,USSD,Delivered,DHL
+458,Michael Afolabi,Abeokuta,2/6/2024,2/20/2024,Books,109286.44,Bank Transfer,Canceled,GIG Logistics
+554,Aliyu Abiodun,Maiduguri,3/16/2023,3/22/2023,Home & Living,30760.43,USSD,Delivered,DHL
+499,Ibrahim Nwosu,Maiduguri,8/13/2023,8/27/2023,Groceries,0,Cash,Delivered,GIG Logistics
+176,Amara Afolabi,Aba,2/17/2024,2/27/2024,Electronics,41019.07,Cash,Delivered,Sendbox
+556,Sunday Ogundimu,Port Harcourt,5/27/2024,6/6/2024,Fashion & Apparel,0,Bank Transfer,Delayed,GIG Logistics
+95,Aisha Garba,Asaba,1/7/2024,1/9/2024,Home & Living,119439.69,Cash,Delivered,Red Star Express
+230,Aisha Olawale,Maiduguri,9/14/2023,9/21/2023,Electronics,11065.58,Bank Transfer,Returned,Red Star Express
+415,Musa Afolabi,Enugu,8/24/2023,8/28/2023,Food & Drink,0,Cash,Delivered,Sendbox
+281,Aliyu Danladi,Ibadan,1/30/2023,3/2/2023,Home & Living,129918.43,Mobile Money,Pending,Sendbox
+435,Chidi Afolabi,Lagos,4/5/2023,6/5/2023,Beauty & Personal Care,99036.29,Cash,Delivered,Red Star Express
+229,Bolu Salami,Owerri,12/23/2023,1/6/2024,Sports & Fitness,16863.28,Cash,Pending,Jumia Logistics
+101,Ibrahim Garba,Calabar,3/28/2024,4/9/2024,Home & Living,88437.74,Bank Transfer,Delivered,Red Star Express
+291,Ibrahim Danladi,Asaba,6/27/2023,6/29/2023,Food & Drink,67337.22,USSD,In Transit,Sendbox
+551,Ade Maikudi,Port Harcourt,1/10/2023,1/16/2023,Home & Living,84909.02,Bank Transfer,Returned,Jumia Logistics
+367,Emeka Nwosu,Uyo,7/3/2023,12/7/2023,Home & Living,0,Cash,Delivered,Jumia Logistics
+54,Sarah Afolabi,Jos,5/7/2023,5/18/2023,Beauty & Personal Care,1826352.27,Bank Transfer,Delivered,Kwik Delivery
+228,John Okafor,Port Harcourt,8/26/2023,6/9/2023,Books,6141219,Card,Returned,Courier Plus
+155,Emeka Okonkwo,Benin City,4/17/2023,4/21/2023,Stationery,69310.25,Card,Delivered,GIG Logistics
+252,Ngozi Bello,Port Harcourt,6/7/2023,6/13/2023,Home & Living,31109.78,Card,In Transit,Red Star Express
+276,Hauwa Garba,Calabar,2/24/2024,5/3/2024,Electronics,98338.25,Card,Delayed,Jumia Logistics
+482,Unknown,Calabar,12/18/2023,12/26/2023,Food & Drink,107881.56,Card,Delivered,Sendbox
+159,Sarah Okonkwo,Port Harcourt,2/15/2024,2/26/2024,Fashion & Apparel,0,Cash,Delivered,GIG Logistics
+272,Chukwu Maikudi,Abuja,9/9/2023,9/16/2023,Sports & Fitness,46378.57,USSD,Delivered,GIG Logistics
+45,Kemi Ogundimu,Uyo,7/15/2023,7/24/2023,Electronics,125783.91,USSD,Delivered,Jumia Logistics
+565,Bolu Afolabi,Sokoto,1/20/2023,1/27/2023,Sports & Fitness,52822.88,Cash,Canceled,DHL
+212,Fatima Chukwuemeka,Onitsha,8/5/2023,8/16/2023,Fashion & Apparel,85526.6,USSD,Delivered,GIG Logistics
+109,Michael Adeleke,Port Harcourt,8/12/2023,8/13/2023,Electronics,115576.84,USSD,Pending,Red Star Express
+321,Fatima Salami,Owerri,10/30/2023,11/1/2023,Automotive,131255.66,Cash,Delivered,GIG Logistics
+170,Michael Danladi,Jos,10/16/2023,10/18/2023,Books,99641.01,Bank Transfer,Delivered,Kwik Delivery
+80,Chidi Afolabi,Abuja,3/11/2023,3/20/2023,Books,3420.09,Cash,Returned,GIG Logistics
+51,Chidi Afolabi,Owerri,1/26/2024,2/5/2024,Automotive,35287.64,Bank Transfer,Delivered,Kwik Delivery
+85,Ade Nwachukwu,Port Harcourt,1/28/2024,1/29/2024,Home & Living,47843.43,Card,Returned,Courier Plus
+9,Sunday Bello,Port Harcourt,2/13/2024,2/24/2024,Electronics,88677.58,Card,Delivered,Sendbox
+33,Sola Salami,Ilorin,11/27/2023,11/12/2023,Electronics,2809414,Cash,Delivered,Kwik Delivery
+100,Michael Okonkwo,Owerri,1/8/2023,8/9/2023,Books,143236.72,Cash,Delivered,GIG Logistics
+110,Ngozi Abiodun,Ilorin,1/20/2024,1/31/2024,Beauty & Personal Care,146795.11,USSD,Delivered,DHL
+137,Amara Okonkwo,Warri,5/15/2024,5/25/2024,Automotive,115122.01,Card,Delivered,Sendbox
+223,Musa Danladi,Ilorin,1/15/2024,1/27/2024,Fashion & Apparel,72094.04,Card,Delayed,Red Star Express
+29,Aisha Ogundimu,Port Harcourt,2/12/2023,12/8/2023,Electronics,149986.27,Card,Pending,Sendbox
+288,Tunde Salami,Unknown,6/30/2024,7/13/2024,Automotive,22414.53,Cash,Delivered,Kwik Delivery
+531,Peter Nwosu,Abeokuta,12/28/2023,1/11/2024,Beauty & Personal Care,70754.41,USSD,Delivered,Sendbox
+56,Bolu Salami,Benin City,5/16/2024,5/21/2024,Fashion & Apparel,135352.74,Card,Delivered,Sendbox
+157,Sunday Okonkwo,Port Harcourt,2/21/2024,2/27/2024,Sports & Fitness,7009.14,Cash,Delivered,Jumia Logistics
+544,Michael Adeyemi,Port Harcourt,5/23/2023,5/27/2023,Automotive,117578.45,Card,In Transit,Jumia Logistics
+555,John Bello,Ibadan,6/25/2024,6/29/2024,Food & Drink,129809.18,USSD,Canceled,Sendbox
+311,Sola Eze,Abuja,5/25/2023,5/26/2023,Fashion & Apparel,125467.47,Card,Delivered,DHL
+49,Emeka Chukwuemeka,Owerri,11/29/2023,4/12/2023,Home & Living,130755.1,Bank Transfer,Canceled,DHL
+84,Kemi Adeleke,Ilorin,12/26/2023,1/7/2024,Home & Living,91528.36,Card,Delivered,Jumia Logistics
+34,Grace Garba,Abeokuta,11/1/2023,1/15/2023,Automotive,34017.86,Cash,Delayed,Courier Plus
+438,Sola Salami,Aba,5/25/2024,5/28/2024,Sports & Fitness,114313.59,USSD,Returned,Sendbox
+36,Ade Abiodun,Calabar,6/21/2024,6/23/2024,Sports & Fitness,83450.49,Bank Transfer,Canceled,GIG Logistics
+332,Uche Abiodun,Sokoto,3/31/2023,4/8/2023,Home & Living,1382562,USSD,Pending,Courier Plus
+64,Bolu Afolabi,Aba,3/13/2023,3/24/2023,Food & Drink,116748.51,Card,Delivered,GIG Logistics
+414,David Olawale,Owerri,3/12/2023,3/23/2023,Sports & Fitness,16622.34,Card,Delivered,Kwik Delivery
+385,Yemi Eze,Kaduna,5/25/2024,5/27/2024,Books,121562.64,Bank Transfer,Delivered,Sendbox
+548,Ibrahim Maikudi,Abuja,6/16/2024,6/20/2024,Sports & Fitness,28422.55,Cash,In Transit,Kwik Delivery
+323,Michael Adeyemi,Aba,2/11/2023,2/14/2023,Fashion & Apparel,140933.04,Bank Transfer,Returned,Jumia Logistics
+373,Kemi Ogundimu,Sokoto,1/12/2024,1/20/2024,Home & Living,14849.17,USSD,In Transit,DHL
+541,Ngozi Okafor,Ibadan,5/6/2023,5/14/2023,Home & Living,93945.47,Cash,Delivered,GIG Logistics
+235,Ade Afolabi,Enugu,7/8/2023,7/12/2023,Home & Living,122314.41,Bank Transfer,Delivered,DHL
+413,Uche Olawale,Lagos,11/15/2023,11/24/2023,Electronics,125441.06,USSD,Delivered,Kwik Delivery
+337,Ade Danladi,Enugu,12/27/2023,12/28/2023,Beauty & Personal Care,124904.46,Card,Delivered,GIG Logistics
+344,Emeka Afolabi,Owerri,2/10/2024,2/21/2024,Home & Living,3066387,USSD,Delivered,Kwik Delivery
+425,Emeka Olawale,Asaba,11/3/2023,4/11/2023,Books,10492.68,USSD,Delivered,Kwik Delivery
+304,David Adeyemi,Kano,9/15/2023,9/16/2023,Fashion & Apparel,57017.81,Bank Transfer,Delayed,Jumia Logistics
+545,Sunday Okafor,Lagos,1/2/2024,1/9/2024,Fashion & Apparel,136120.47,Cash,Delayed,Jumia Logistics
+178,Fatima Adeyemi,Kaduna,6/2/2024,6/15/2024,Beauty & Personal Care,137786.63,Cash,Canceled,Red Star Express
+220,Amara Eze,Onitsha,2/14/2023,2/24/2023,Books,96005.78,Cash,Delivered,Red Star Express
+537,Chidi Abiodun,Port Harcourt,5/26/2023,6/6/2023,Electronics,71600.69,Bank Transfer,Delivered,Courier Plus
+297,Zainab Okonkwo,Port Harcourt,5/8/2024,5/10/2024,Fashion & Apparel,111511.23,Card,In Transit,Courier Plus
+22,Michael Eze,Ilorin,11/13/2023,11/19/2023,Sports & Fitness,1060.49,USSD,Delayed,Red Star Express
+249,Amara Nwachukwu,Calabar,5/26/2024,6/5/2024,Home & Living,147269.68,Cash,Returned,Kwik Delivery
+184,Ade Okonkwo,Maiduguri,12/30/2023,1/13/2024,Automotive,87952.62,Card,Canceled,GIG Logistics
+421,Unknown,Benin City,3/18/2024,3/31/2024,Fashion & Apparel,44883.16,Card,Delivered,GIG Logistics
+326,Uche Adeyemi,Benin City,5/16/2023,5/23/2023,Food & Drink,98708.31,USSD,Delayed,Sendbox
+310,Yemi Adeleke,Aba,5/26/2024,9/6/2024,Fashion & Apparel,100430.15,Bank Transfer,Delayed,GIG Logistics
+200,Fatima Eze,Asaba,5/9/2024,5/22/2024,Books,137470.63,Cash,Pending,Red Star Express
+451,Chidi Nwachukwu,Aba,11/6/2024,6/15/2024,Beauty & Personal Care,111141.49,Cash,Pending,Kwik Delivery
+138,Ngozi Chukwuemeka,Aba,2/12/2023,2/20/2023,Sports & Fitness,13960.47,Card,Canceled,Sendbox
+25,David Maikudi,Calabar,4/20/2024,4/29/2024,Home & Living,68060.39,Cash,Delivered,Jumia Logistics
+444,Grace Adeleke,Jos,3/1/2023,3/8/2023,Home & Living,0,Bank Transfer,In Transit,Sendbox
+206,Fatima Ogundimu,Ilorin,11/22/2023,11/25/2023,Food & Drink,99836.84,Cash,Pending,Courier Plus
+135,Yemi Bello,Kano,1/11/2023,11/11/2023,Groceries,58881.03,Mobile Money,Delivered,Courier Plus
+117,Sarah Ogundimu,Kaduna,8/15/2023,8/16/2023,Beauty & Personal Care,37613.77,Cash,Returned,Kwik Delivery
+213,Emeka Chukwuemeka,Asaba,4/11/2023,4/21/2023,Beauty & Personal Care,49923.57,Bank Transfer,In Transit,Jumia Logistics
+595,Emeka Babatunde,Kaduna,5/10/2023,10/15/2023,Food & Drink,713444,Cash,Returned,DHL
+567,Unknown,Abuja,10/15/2023,10/20/2023,Sports & Fitness,38326.48,Card,Delivered,Jumia Logistics
+468,Ade Babatunde,Asaba,11/10/2023,11/23/2023,Electronics,0,Mobile Money,Delayed,GIG Logistics
+492,Mary Ogundimu,Warri,4/6/2023,6/13/2023,Food & Drink,75388.37,Cash,Returned,Sendbox
+232,Bolu Chukwuemeka,Jos,8/29/2023,9/12/2023,Fashion & Apparel,101696.01,Card,Canceled,Sendbox
+406,Mary Abiodun,Ibadan,10/12/2023,10/20/2023,Home & Living,128466.36,Cash,Canceled,Kwik Delivery
+218,James Okonkwo,Benin City,6/28/2023,7/5/2023,Books,52409.82,Card,Canceled,DHL
+57,Amara Olawale,Ibadan,4/4/2023,4/15/2023,Beauty & Personal Care,83576.96,Bank Transfer,Returned,GIG Logistics
+318,Kemi Adeyemi,Abuja,2/1/2024,2/9/2024,Electronics,127896.05,Bank Transfer,Delivered,Courier Plus
+184,Unknown,Maiduguri,12/30/2023,1/13/2024,Automotive,87952.62,Card,Canceled,GIG Logistics
+530,Mary Bello,Benin City,6/1/2023,6/15/2023,Automotive,42800.7,USSD,Delivered,Kwik Delivery
+528,Ibrahim Nwachukwu,Kano,2/18/2023,3/2/2023,Beauty & Personal Care,21671.43,USSD,Delivered,Kwik Delivery
+341,James Adeyemi,Warri,5/9/2023,9/7/2023,Electronics,32888.29,USSD,Delayed,Red Star Express
+182,Chukwu Olawale,Lagos,7/12/2023,7/25/2023,Sports & Fitness,61285.24,Bank Transfer,Returned,Kwik Delivery
+98,Peter Bello,Maiduguri,1/25/2024,5/2/2024,Books,31379.86,USSD,Returned,DHL
+115,Bolu Danladi,Aba,7/12/2023,7/22/2023,Electronics,0,USSD,In Transit,DHL
+398,Michael Abiodun,Enugu,6/24/2024,6/29/2024,Fashion & Apparel,0,Cash,Delivered,Jumia Logistics
+486,Ibrahim Nwachukwu,Onitsha,2/23/2024,2/28/2024,Sports & Fitness,146835.6,Card,Returned,Kwik Delivery
+279,David Nwachukwu,Asaba,3/13/2024,3/19/2024,Automotive,132665.89,Cash,Delivered,Red Star Express
+433,Peter Babatunde,Asaba,6/19/2024,1/7/2024,Electronics,139394.26,Bank Transfer,Delivered,GIG Logistics
+21,Unknown,Calabar,6/7/2024,6/17/2024,Food & Drink,99971.42,Cash,Canceled,Jumia Logistics
+171,Grace Okonkwo,Calabar,3/25/2023,3/27/2023,Home & Living,56040.85,Cash,Delivered,Sendbox
+402,Tunde Babatunde,Kano,6/6/2024,6/9/2024,Sports & Fitness,76218.22,Cash,Delivered,Red Star Express
+390,Ade Bello,Kano,1/6/2024,2/6/2024,Sports & Fitness,68518.93,Bank Transfer,Delivered,Sendbox
+570,James Nwosu,Aba,8/29/2023,8/31/2023,Books,0,Cash,Returned,Red Star Express
+55,Ngozi Bello,Calabar,2/23/2024,2/24/2024,Books,142457.73,USSD,Returned,Red Star Express
+177,Paul Ogundimu,Port Harcourt,8/22/2023,3/9/2023,Automotive,61668.38,Cash,Delivered,GIG Logistics
+488,Uche Abiodun,Ilorin,5/17/2024,5/20/2024,Fashion & Apparel,37542.82,USSD,Returned,Kwik Delivery
+328,Emeka Salami,Enugu,7/6/2023,9/6/2023,Electronics,52233.21,Bank Transfer,Delivered,Red Star Express
+195,Mary Afolabi,Calabar,4/8/2023,4/20/2023,Electronics,76329.57,USSD,Delivered,Jumia Logistics
+199,Ngozi Ogundimu,Owerri,2/7/2024,2/21/2024,Automotive,0,USSD,Delayed,Courier Plus
+521,David Okafor,Uyo,6/1/2023,1/18/2023,Beauty & Personal Care,33326.71,Bank Transfer,Returned,Jumia Logistics
+267,Aliyu Olawale,Ibadan,8/21/2023,8/31/2023,Home & Living,120215.65,Cash,Returned,DHL
+493,Ibrahim Nwosu,Sokoto,5/31/2023,6/7/2023,Home & Living,20002.83,Cash,Delivered,Kwik Delivery
+339,Tunde Okafor,Sokoto,5/9/2023,5/11/2023,Beauty & Personal Care,1489683.27,USSD,Canceled,GIG Logistics
+526,Grace Adeleke,Sokoto,11/22/2023,11/26/2023,Fashion & Apparel,49704.34,Card,Delivered,GIG Logistics
+490,Sola Adeleke,Onitsha,3/30/2024,4/4/2024,Electronics,45214.04,USSD,Delivered,GIG Logistics
+194,Zainab Eze,Abeokuta,3/24/2024,3/31/2024,Books,39980.32,Bank Transfer,Canceled,Courier Plus
+141,Paul Okonkwo,Jos,1/20/2024,1/31/2024,Automotive,130467.26,Card,Pending,Sendbox
+417,Musa Nwachukwu,Uyo,12/13/2023,12/18/2023,Fashion & Apparel,138699.16,Bank Transfer,Delivered,Jumia Logistics
+477,Uche Babatunde,Sokoto,3/15/2024,3/27/2024,Home & Living,38170.55,Cash,Delivered,DHL
+153,Fatima Chukwuemeka,Aba,3/21/2023,3/23/2023,Fashion & Apparel,116255.59,Card,Delivered,DHL
+553,Aisha Chukwuemeka,Benin City,4/9/2023,4/17/2023,Home & Living,113616.27,Card,Delayed,GIG Logistics
+270,Bolu Chukwuemeka,Lagos,7/8/2023,7/16/2023,Books,148248.27,Card,Pending,Sendbox
+211,Uche Eze,Jos,6/10/2023,6/13/2023,Home & Living,86335.07,Card,Delivered,Kwik Delivery
+533,Emeka Salami,Kano,6/18/2023,7/2/2023,Electronics,5259.35,USSD,Delivered,GIG Logistics
+575,Paul Bello,Abuja,5/4/2023,5/17/2023,Books,0,Mobile Money,Delivered,Kwik Delivery
+76,Ibrahim Adeyemi,Ibadan,10/16/2023,10/25/2023,Electronics,56310.6,Card,Delivered,Jumia Logistics
+78,Aisha Danladi,Lagos,5/30/2023,6/4/2023,Electronics,23278.42,USSD,Returned,Jumia Logistics
+264,Musa Okonkwo,Lagos,6/23/2024,6/21/2024,Stationery,127960.36,Card,Delivered,Red Star Express
+150,Ngozi Okafor,Lagos,2/26/2023,3/10/2023,Automotive,117665.08,Bank Transfer,Delivered,Kwik Delivery
+470,Zainab Nwosu,Port Harcourt,9/11/2023,11/11/2023,Beauty & Personal Care,9554.32,USSD,Pending,Kwik Delivery
+462,Uche Eze,Port Harcourt,4/7/2023,4/10/2023,Home & Living,3942.21,USSD,Delivered,Courier Plus
+254,Bolu Maikudi,Benin City,9/30/2023,12/10/2023,Books,98874.6,Bank Transfer,Returned,Kwik Delivery
+322,Uche Ogundimu,Asaba,3/14/2023,3/26/2023,Fashion & Apparel,110628.36,Cash,Delivered,Red Star Express
+303,Aisha Adeyemi,Enugu,2/5/2024,2/16/2024,Electronics,4.33,Card,Delivered,Kwik Delivery
+191,Chidi Okafor,Kano,5/23/2024,4/6/2024,Automotive,117149.41,Card,Delayed,Jumia Logistics
+349,Ibrahim Nwachukwu,Owerri,10/19/2023,10/20/2023,Food & Drink,52426.31,Cash,Delayed,DHL
+244,Uche Garba,Sokoto,6/13/2024,6/23/2024,Fashion & Apparel,17443.1,USSD,Returned,DHL
+88,James Ogundimu,Owerri,3/30/2023,3/26/2023,Home & Living,68046.2,Cash,Canceled,Kwik Delivery
+561,Sola Nwosu,Benin City,1/12/2024,1/18/2024,Electronics,38238.44,Card,Delivered,GIG Logistics
+419,Grace Maikudi,Aba,3/8/2023,3/15/2023,Automotive,71589.97,Card,Delivered,Red Star Express
+289,Ade Danladi,Enugu,11/29/2023,11/30/2023,Food & Drink,76684.5,Card,Delayed,Sendbox
+167,Ibrahim Olawale,Onitsha,3/21/2023,3/27/2023,Beauty & Personal Care,0,Card,Delivered,Red Star Express
+578,Yemi Afolabi,Enugu,6/14/2024,6/24/2024,Electronics,109916.75,Cash,Canceled,GIG Logistics
+357,Mary Maikudi,Unknown,8/30/2023,11/9/2023,Fashion & Apparel,50063.6,USSD,Pending,DHL
+382,Ngozi Ogundimu,Abeokuta,5/9/2024,5/13/2024,Beauty & Personal Care,149889.92,Cash,Delayed,Sendbox
+280,Ade Garba,Kaduna,8/1/2023,8/8/2023,Beauty & Personal Care,118739.13,Cash,Delivered,Jumia Logistics
+127,Uche Okafor,Aba,5/22/2024,5/26/2024,Food & Drink,122505.85,Bank Transfer,Delivered,DHL
+23,Mary Nwosu,Asaba,3/28/2024,4/6/2024,Fashion & Apparel,35995.42,Bank Transfer,Delivered,Red Star Express
+283,Blessing Nwosu,Benin City,11/12/2023,11/18/2023,Automotive,0,Card,Delivered,Red Star Express
+472,Amara Ogundimu,Enugu,8/19/2023,8/25/2023,Fashion & Apparel,38215.02,Card,Delivered,Jumia Logistics
+368,Aisha Eze,Maiduguri,9/28/2023,5/10/2023,Beauty & Personal Care,28288.06,Bank Transfer,Delivered,Red Star Express
+26,Hauwa Garba,Ibadan,3/21/2023,3/25/2023,Stationery,32878.98,Cash,Delivered,DHL
+197,Chidi Nwosu,Asaba,1/19/2023,1/26/2023,Beauty & Personal Care,142602.91,Card,Delivered,Jumia Logistics
+65,Sunday Ogundimu,Uyo,3/25/2023,4/5/2023,Food & Drink,102054.47,Cash,Delivered,GIG Logistics
+16,Hauwa Bello,Ibadan,11/3/2023,5/11/2023,Sports & Fitness,52089.16,Cash,Delivered,GIG Logistics
+467,Yemi Nwosu,Aba,5/8/2023,5/19/2023,Home & Living,41773.37,Bank Transfer,Pending,DHL
+298,James Danladi,Aba,2/24/2023,3/5/2023,Food & Drink,6263.61,Cash,Returned,GIG Logistics
+27,Chukwu Danladi,Jos,2/3/2024,2/13/2024,Books,110460.48,Bank Transfer,Delivered,Red Star Express
+498,Michael Okonkwo,Uyo,6/27/2023,6/28/2023,Beauty & Personal Care,41502.31,USSD,Returned,Courier Plus
+516,Chukwu Adeyemi,Ilorin,11/22/2023,12/2/2023,Books,59171.34,USSD,Delivered,DHL
+590,Bolu Bello,Owerri,11/3/2024,12/3/2024,Books,34115.69,Cash,Delivered,Courier Plus
+562,Chukwu Danladi,Port Harcourt,12/25/2023,12/29/2023,Sports & Fitness,106083.02,Bank Transfer,Returned,Sendbox
+388,Hauwa Maikudi,Ibadan,8/11/2023,11/14/2023,Automotive,82119.37,USSD,Canceled,Red Star Express
+543,Grace Nwachukwu,Ilorin,3/18/2024,3/20/2024,Books,138108.93,Bank Transfer,Delivered,Sendbox
+457,Grace Babatunde,Ilorin,10/8/2023,10/20/2023,Food & Drink,32381.35,Bank Transfer,Returned,Sendbox
+432,Ngozi Garba,Enugu,6/24/2023,7/4/2023,Electronics,0,Card,Delayed,Kwik Delivery
+265,Unknown,Kaduna,1/25/2024,6/2/2024,Automotive,4201.78,Cash,Delivered,DHL
+210,Amara Nwosu,Uyo,7/1/2023,1/17/2023,Sports & Fitness,13889.28,Mobile Money,Delivered,GIG Logistics
+317,Sola Bello,Sokoto,7/23/2023,7/29/2023,Books,88178.75,USSD,Delivered,Red Star Express
+514,Zainab Ogundimu,Maiduguri,3/30/2024,4/12/2024,Books,0,Mobile Money,Canceled,Kwik Delivery
+314,Blessing Chukwuemeka,Asaba,10/5/2023,5/21/2023,Home & Living,142594.41,Cash,Delivered,DHL
+535,Ngozi Chukwuemeka,Abuja,5/20/2024,5/22/2024,Sports & Fitness,16053.77,Mobile Money,Delivered,Kwik Delivery
+320,Grace Maikudi,Uyo,6/2/2023,3/6/2023,Automotive,68413.76,Card,Returned,DHL
+8,Paul Danladi,Calabar,11/11/2023,11/15/2023,Home & Living,82920.74,USSD,Pending,Kwik Delivery
+394,Musa Ogundimu,Warri,1/19/2024,1/27/2024,Beauty & Personal Care,0,Cash,Canceled,Red Star Express
+142,Yemi Babatunde,Owerri,2/12/2024,2/19/2024,Automotive,114575.85,USSD,Delivered,Red Star Express
+87,Musa Nwachukwu,Kano,8/3/2023,3/13/2023,Home & Living,4916.32,Cash,Canceled,DHL
+479,Grace Adeleke,Abuja,11/10/2023,11/14/2023,Fashion & Apparel,141506.81,Bank Transfer,Canceled,GIG Logistics
+504,Ngozi Salami,Warri,5/27/2023,1/6/2023,Fashion & Apparel,53651.9,USSD,Pending,Sendbox
+216,Ade Maikudi,Benin City,10/25/2023,3/11/2023,Home & Living,0,Bank Transfer,Returned,GIG Logistics
+581,Musa Nwosu,Benin City,5/21/2023,2/6/2023,Fashion & Apparel,50965.24,Card,Delayed,Red Star Express
+399,Ibrahim Bello,Benin City,12/4/2023,4/19/2023,Beauty & Personal Care,76158.77,Cash,Delivered,Red Star Express
+491,Aliyu Afolabi,Kano,3/13/2024,3/19/2024,Home & Living,143513.51,Card,Delivered,GIG Logistics
+253,Sola Nwosu,Kaduna,6/22/2024,2/7/2024,Fashion & Apparel,10044.33,USSD,Returned,Sendbox
+469,Sarah Okonkwo,Jos,6/9/2024,6/20/2024,Stationery,66405.04,USSD,Delivered,Courier Plus
+358,Zainab Adeleke,Jos,6/29/2023,7/4/2023,Food & Drink,102728.03,Bank Transfer,Delivered,Sendbox
+255,Fatima Abiodun,Uyo,1/2/2024,1/14/2024,Home & Living,67008.81,Cash,Pending,Sendbox
+277,David Garba,Maiduguri,3/31/2023,3/27/2023,Food & Drink,45594.88,USSD,Returned,GIG Logistics
+179,Zainab Danladi,Jos,2/1/2023,2/9/2023,Home & Living,112595.21,Cash,Delivered,Sendbox
+282,Chidi Adeyemi,Aba,3/11/2023,11/14/2023,Fashion & Apparel,5644.8,Bank Transfer,Delayed,Courier Plus
+391,Yemi Maikudi,Jos,5/24/2023,6/2/2023,Fashion & Apparel,124437.21,Card,Canceled,DHL
+509,James Adeyemi,Onitsha,10/8/2023,10/13/2023,Electronics,64851.61,Cash,Delivered,Red Star Express
+584,Musa Afolabi,Calabar,11/4/2023,11/9/2023,Sports & Fitness,144474.92,Cash,Pending,DHL
+130,David Nwosu,Benin City,4/3/2024,3/17/2024,Food & Drink,7600.21,USSD,Pending,GIG Logistics
+145,Aisha Eze,Ibadan,4/15/2023,4/21/2023,Electronics,66574.81,Bank Transfer,Delayed,Sendbox
+73,David Nwosu,Ilorin,11/14/2023,11/26/2023,Home & Living,142119.19,Card,Delayed,Jumia Logistics
+236,Emeka Maikudi,Aba,6/3/2023,6/4/2023,Sports & Fitness,85607.34,Bank Transfer,Delivered,Red Star Express
+38,Zainab Ogundimu,Asaba,8/20/2023,8/27/2023,Fashion & Apparel,32442.75,Bank Transfer,Delivered,DHL

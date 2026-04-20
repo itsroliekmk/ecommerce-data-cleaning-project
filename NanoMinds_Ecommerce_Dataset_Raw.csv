@@ -1,0 +1,619 @@
+﻿Order_ID,Customer_Name,Location,Order_Date,Delivery_Date,Product_Category,Order_Value,Payment_Method,Delivery_Status,Logistics_Partner
+#313,aliyu adeleke,Asab,22/06/2023,01-Jul-2023,Home,"₦13,027.67",debit card,DELAYED,RED STAR
+#161,John M@ikudi,Calabar,04/03/2023,11-Mar-2023,Stationary,82133.15,Cash on Delivery,Delivered,JUMIA LOG
+ORD-224,James Bello,ilorin,13.07.2023,,Food & Drink,24062.01,CASH,Canceled,courier plus
+ORD_430,Tunde Bello,Ab@,"August 11, 2023",2023-08-18,Auto,76403.62,debit card,In Transit,
+RD-024,Gr@c3 Afol@bi,lagos,"March 16, 2023",27/03/2023,books,143736.94,Credit Card,Delivered,Red Star
+ORD-048,Am@r@ Nwosu,warri,25.01.2024,05-Feb-2024,Fashon,114295.08,Debit Card,DELIVERED,GIG Logistics
+ORD-237,Michael Okonkwo,Sokoto,04-05-2024,04-10-2024,Groceries,30644.76,Xfer,DELIVERED,Kwik-Del
+#149,Musa Eze,Ilorin,2023-06-06,"June 11, 2023",Sports & Fitness,143060.77,Transfer,Pending,Red-Star
+#422,M@ry Ol@w@l3,onitsha,15/03/2023,03-24-2023,Hom,111233.33,Caard,DELIVERED,Send Box
+ord-536,Peter Babatunde,kano,02/10/2023,10-05-2023,Car Parts,136093.5,Cassh,delivered,Jumia-Log
+ORD-089,Ibrahim Bello,warri,06-Jul-2023,"July 09, 2023",HOME,34595.07,Cash,Delivred,courier plus
+ORD-014,Sola Adeleke,SOKOTO,11-Mar-2023,2023-03-15,sports,47813.4,Trnsfr,Late,Jumia Logistics
+#86,David Babatunde,abeokuta,01.05.2023,06-May-2023,fashion,68354.36,USSD,CANCELLED,kwik delivery
+RD-067,,SOKOTO,01-20-2023,"January 22, 2023",Fashon,987152.27,*737*,Delivered,DHL Nig
+O00121,Amara Okafor,Port-Harcourt,02-Feb-2023,"February 09, 2023",Stationary,85312.64,,cancelled,DhL Nigeria
+ORD-091,John Okafor,CALABAR,"September 29, 2023",12-Oct-2023,Sport,121295.05,USSD,delayed,RED STAR
+#594,SUNDAY BELLO,Sokto,2023-01-14,26/01/2023,Homee,73591.81,Mobile Money,Delivered,Redstar
+ORD_557,Tunde Abiodun,Pt Harcourt,24-Oct-2023,29.10.2023,,75507,Credit Card,Delayed,C-Plus
+ORD-483,Sarah Adeleke,Kadna,20/06/2023,07-02-2023,Car Parts,NGN 77509.67,USDD,Dlvrd,Red-Star
+ORD-315,James Chukwuemeka,KD,"May 01, 2023",05-03-2023,electronics,23233.4,Mobile Money,Delivred,GIG Logistics
+ORD0293,Sarah Okafor,Uyo State,08.11.2023,11-15-2023,Hom,56014.21,Card,RETURNED,gig logistics
+O00274,john nwachukwu,ilorin,2023-06-17,2023-06-19,Bok,115470.79,transfer,cancelled,Sendbox
+O00042,Uche Afolabi,Calabar,18-Apr-2023,24.04.2023,Automotive,49167.79,USDD,Cancelled,Kwik-Del
+ORD0148,CHIDI NWOSU,Kaduna,06/03/2024,17-Mar-2024,Electronis,94657.03,Mobile Money,Returned,Kwik-Del
+ORD-306,  Aisha Ogundimu  ,Kanoo,2024-02-07,15/02/2024,Sports,605618.49,USSD,cancelled,Quik Delivery
+ORD0589,Tunde Maikudi,Sokoto,02-15-2024,2024-02-27,Electronic,FREE,ussd,CANCELLED,SENDBOX
+ORD0258,Paul Olawale,Engu,05/04/2023,15.04.2023,Fshion,6568.37,USSD,RETURNED,Jumia-Log
+O00442,tunde olawale,abeokuta,"November 10, 2023","November 17, 2023",home,43.22,Cash on Delivery,Dlvrd,Redstar
+ORD-392,James Afolabi,Owerri,21-Mar-2023,"March 30, 2023",Book,142225.19,ussd,delivered,RED STAR
+ORD-588,Zainab Okafor,,28/02/2024,2024-03-11,Book,"₦43,180.37",Transfer,Delivered,Send Box
+ORD-354,Paul Adeleke,J.O.S,"October 02, 2023",11-Oct-2023,home,103110.69,Mobile Money,Delivered,Kwik
+ORD_503,,Sokoto,19-Jun-2024,25/06/2024,books,NGN 91947.7,bank transfer,Late,GIG Logistics
+ORD-060,Peter Olawale,ASABA,09.03.2023,"March 19, 2023",Automotve,15777.59,Bank Transfer,delivered,Redstar
+ORD-261,SOLA CHUKWUEMEKA,SOKOTO,"February 09, 2024","February 13, 2024",Fashion,64107.55,CASH,Delayed,SENDBOX
+ORD-464,,UYO,08-Jan-2024,11.01.2024,Auto,104570.12,COD,delayed,Kwik Delivery
+#1,Emeka Bello,Calabar,04-25-2023,,Books,827956.96,Credit Card,Delivred,Kwik-Del
+ORD-352,Paul Nwosu,Owerri,18-Feb-2023,28/02/2023,FOOD,120376.67,TRANSFER,Rtnd,SENDBOX
+ord-466,John Adeyemi,Oweri,27.05.2023,29.05.2023,Home Goods,48137.69,USSD,pending,gig logistics
+ORD-174,Kemi Olawale,Port Harcourt,21.03.2024,04/04/2024,Bok,49592.89,USSD,Rtrnd,Courierplus
+O00287,hauwa adeleke,,13/12/2023,2023-12-14,Book,89822.08,USDD,DELIVERED,sendbox
+#180,Kemi Ogundimu,L.A.G.O.S,08/08/2023,19.08.2023,Homee,120328.86,Cassh,PENDING,RED STAR
+ord-201,Ibrahim Garba,calabar,22.05.2023,"June 03, 2023",beauty,44296.34,Trnsfr,delayed,Courierplus
+ord-066,YEMI BELLO,sokoto,29/07/2023,08-02-2023,Home Goods,35286.5,Cash,Delivred,GIG-Logistics
+ORD_035,Peter Salami,onitsha,"December 19, 2023",12-31-2023,Clothing,18813.66,transfer,Dlvrd,JUMIA LOG
+#ORD186,,Sokto,05/01/2023,"January 09, 2023",Book,"₦58,114.15",Trnsfr,Delivered,JUMIA LOG
+ord-070,Tunde Nwosu,Uyo State,2023-11-14,11-15-2023,Automotve,118980.85,,DELAYED,C-Plus
+ord-308,Chukwu Adeleke,P/H,05-05-2023,11.05.2023,Food,114307.51,transfer,Late,Kwik
+#ORD416,Sola Okonkwo,ABA,14/02/2023,02-18-2023,home,1764322.13,Caard,Late,Kwik Delivery
+#360,Zainab Abiodun,Ab@,03/04/2023,04-16-2023,ELECTRONICS,123656.47,Mobile Money,PENDING,KWIK
+#163,Sarah Olawale,Jos,30/12/2023,13/01/2024,Foood,84903.22 naira,USDD,Dlvrd,GIG Logistics
+RD-251,Paul Abiodun,ASABA,11.01.2024,"January 24, 2024",BEAUTY,99085.12,ussd,Late,Sndbx
+ORD-329,James Olawale,Wari,29/05/2023,2023-06-04,Sprts,120136.85,*737*,In Transit,Red Star Express
+RD-011,Paul Olawale,kano,2023-02-25,2023-03-08,beauty,21887.16 naira,ussd,Cancelled,Red-Star
+#ORD549,  Ibrahim Chukwuemeka  ,calabar,2023-05-07,18/05/2023,AUTOMOTIVE,100462.79,*737*,Late,Red Star Express
+#ORD412,John M@ikudi,Sokto,11/03/2023,"March 25, 2023",Auto,NGN 119756.81,COD,Delivred,SENDBOX
+ORD-495,Aliyu Nwachukwu,Ibdn,18/01/2023,2023-01-26,Auto,83173.56,ussd,delivered,G.I.G
+ORD0324,Ade Nwachukwu,Uyo,10-01-2023,2023-10-08,Car Parts,123981.47,USDD,Delivred,Kwik Delivery
+#ORD577,Hauwa Okafor,,"July 07, 2023",2023-07-17,BOOKS,76791.41,card,DELIVERED,GIGLogistics
+#465,,JOS,15/02/2023,02-19-2023,Homee,12079.59,ussd,Delivered,Jumia-Log
+RD-083,Tunde Ogundimu,Enugo,01-12-2024,2024-01-21,SPORTS,49860.07,USDD,returned,KWIK
+RD-507,Bolu Afolabi,aba,2023-04-22,04-May-2023,Auto,71956.7,Credit Card,Dlvrd,DhL Nigeria
+#572,Sarah Maikudi,Calbr,2023-06-03,2023-06-14,clothing,119932.63,*737*,Deliverd,Jumia Log
+ORD_318,Kemi Adeyemi,Abuia,01.02.2024,09/02/2024,ELECTRONICS,127896.05,,DELIVERED,CourierPlus
+O00136,David Adeleke,,20/06/2023,06-23-2023,home,144610.53,Mobile Money,Late,KWIK
+O00450,Zainab Afolabi,Ibadan,2023-12-31,2024-01-13,clothing,142708.23,TRANSFER,Delivred,KWIK
+ord-050,mary garba,MAIDUGURI,2023-09-18,29-Sep-2023,Sports & Fitness,103856.71,cash,Pndng,GIG
+RD-520,Chukwu Olawale,maiduguri,13/05/2024,15.05.2024,HOME,9.76,,PENDING,Red-Star
+ORD-102,Aliyu Abiodun,Abekuta,28/04/2024,2024-05-11,BEAUTY,97238.79,debit card,Dlayd,Quik Delivery
+ord-334,uche danladi,Wari,2023-08-18,,Home Goods,"₦97,073.09",Cash on Delivery,Pending,courier plus
+ORD-436,Fatima Okonkwo,ASABA,26.05.2024,"May 28, 2024",Stationary,FREE,Trnsfr,Rtnd,Jumia-Log
+#405,Tunde Babatunde,Benin,21.01.2023,02-01-2023,auto,1239256.81,Transfer,Delivred,Red Star Express
+ORD0097,Blessing Babatunde,L.A.G.O.S,11-03-2023,11-04-2023,Sports & Fitness,116648.14,Credit Card,Deliverd,Quik Delivery
+RD-160,  Mary Ogundimu  ,kaduna,19-Mar-2024,2024-03-26,SPORTS,23146.08,Trnsfr,Dlvrd,C-Plus
+RD-133,Sunday Chukwuemeka,enugu,06-12-2024,"June 15, 2024",Book,142116041,Mobile Money,delivered,dhl
+#ORD219,Fatima Nwachukwu,kano,20/03/2023,25/03/2023,BOOKS,72745.98,bank transfer,Dlvrd,GIG
+#583,CHIDI OGUNDIMU,calabar,01.04.2023,15.04.2023,Home,40198,Trnsfr,Deliverd,Kwik
+#ORD260,emeka olawale,Owerri,05-31-2024,07-Jun-2024,BOOKS,75771.64,Xfer,Deliverd,DHL Nig
+ORD-063,DAVID GARBA,Onitsha,13-Oct-2023,"October 26, 2023",HOME,47038.72,card,Cancel,KWIK
+ord-166,paul babatunde,LG,01/01/2024,11-Jan-2024,electronics,138234.69,Trnsfr,Late,dhl
+#ORD452,Zainab Maikudi,Uyo,"April 13, 2023",18/04/2023,Home Goods,45900.9,ussd,Cancelled,Red-Star
+ORD-546,sunday adeleke,Onitsha,2024-02-07,18-Feb-2024,Foood,44295.96,Cash,Deliverd,Kwik-Del
+ORD-196,John Afolabi,Benin City,"December 05, 2023",06/12/2023,AUTOMOTIVE,67766.69,*737*,Dlvrd,Quik Delivery
+ORD_381,aliyu salami,Wari,19/12/2023,"December 28, 2023",Stationary,54678.08,bank transfer,Delivred,Kwik Delivery
+ORD0336,James Adeyemi,Enugu,"December 31, 2023",28.12.2023,Home & Living,48115.35,CASH,In Transit,Jumia Logistics
+ORD-018,  Hauwa Nwachukwu  ,,06-01-2023,06-02-2023,FASHION,132736.07,transfer,cancelled,Red Star Express
+ORD0384,Musa Bello,Abj,21-Feb-2023,2023-03-01,fashion,130759.55,,Dlvrd,Sndbx
+RD-061,Yemi Okonkwo,IBADAN,2024-04-09,04-21-2024,Fashion,NGN 14891.29,cash,Dlayd,Courierplus
+O00579,Sola Abiodun,Onitsha,10-19-2023,24-Oct-2023,Beuty,15300.43,Transfer,Delayed,Courierplus
+ORD0585,Ade Afolabi,Abekuta,03-11-2024,19.03.2024,Stationary,44348.61,USSD,DELAYED,
+#ORD600,Ibrahim Ogundimu,ABEOKUTA,06-20-2023,04.07.2023,Fshion,98161.73 naira,Cash on Delivery,RETURNED,KWIK
+ord-597,Ibrahim Ogundimu,WARRI,20/08/2023,08-21-2023,BOOKS,965983,Transfer,RETURNED,
+ORD-112,Uche Chukwuemeka,OWERRI,2023-08-11,24/08/2023,food,22345.8,Bank Transfer,Delivered,Courierplus
+ORD-285,Zainab Nwosu,Abuja,2023-04-29,,Sports,47509.29,cash,DELIVERED,courier plus
+#30,Emeka Danladi,owerri,"September 11, 2023",12/09/2023,Car Parts,55965.38,Caard,CANCELLED,GIGLogistics
+#393,SUNDAY DANLADI,Enugo,"May 13, 2023",2023-05-22,Food,N61884.36,Cash,Delayed,JumiaLogistics
+O00351,Ngozi Adeyemi,UYO,"January 22, 2024",2024-01-28,Home & Living,14544474,Caard,cancelled,JumiaLogistics
+O00108,Tunde Maikudi,Ab,28.03.2024,"April 01, 2024",Home & Living,85022.77,Cassh,DELIVERED,Sendbox
+RD-330,David Chukwuemeka,P/H,05-23-2023,2023-05-25,Electrnics,87931.28,cash,Deliverd,Send Box
+ORD-449,Aisha Okonkwo,ABEOKUTA,05-Aug-2023,"August 06, 2023",BOOKS,133632.68,TRANSFER,Late,Courier Plus
+#ORD539,Blessing Chukwuemeka,Ibdn,04.10.2023,2023-10-16,Automotive,111410.85,cash,returned,Red Star Express
+ORD-522,John Babatunde,Abekuta,05-08-2024,10.05.2024,books,30483.59,Cash on Delivery,Deliverd,Jumia Log
+ORD_379,Chidi Bello,Sokto,26-Jul-2023,2023-08-09,Car Parts,109930.7,Debit Card,Deliverd,Courierplus
+#93,Zainab Abiodun,OWERRI,"February 21, 2023",28-Feb-2023,beauty,77694,Cash on Delivery,Dlvrd,C-Plus
+#478,Z@in@b Ez3,IBADAN,"April 16, 2023",25/04/2023,ELECTRONICS,139435.65,Transfer,Canceled,Red-Star
+ord-104,Bolu Bello,MAIDUGURI,"May 20, 2024",23-May-2024,Home,118824.38,transfer,In Transit,RED STAR
+ORD-225,Musa Garba,J.O.S,10/10/2023,17-Oct-2023,SPORTS,116354.98,Xfer,Cancelled,Kwik
+ORD0538,Uche Olawale,,22/08/2023,2023-08-25,auto,3020.6,COD,Rtrnd,Red Star Express
+ORD0410,MUSA EZE,Maiduguri,03-04-2023,11.03.2023,Sprts,10802.75,CARD,Canceled,GIGLogistics
+ORD0350,YEMI ABIODUN,Aba,2023-11-16,11-28-2023,Car Parts,85639.36,Cash,Dlayd,gig logistics
+#ORD6,Musa Ogundimu,Ilorrin,2024-05-20,21/05/2024,Automotve,83430.66,debit card,CANCELLED,SENDBOX
+#ORD389,James Garba,Pt Harcourt,11-05-2023,14-Nov-2023,Sprts,"₦95,717.14",cash,CANCELLED,KWIK
+ORD0198,NGOZI CHUKWUEMEKA,JOS,29.04.2024,05-May-2024,Groceries,134634.69,USSD,delivered,DHL Nigeria
+#ORD81,Ibrahim Salami,abeokuta,"December 07, 2023",12-13-2023,Home,"₦141,597.17",Transfer,Returned,JumiaLogistics
+ORD0384,Musa Bello,Abj,21-Feb-2023,2023-03-01,fashion,130759.55,Trnsfr,Dlvrd,Sndbx
+ord-446,Paul Adeyemi,ILORIN,04-22-2023,05/05/2023,electronics,NGN 1235.21,USDD,DELIVERED,KWIK
+RD-428,David Chukwuemeka,Owerri,10-Oct-2023,2023-10-13,AUTOMOTIVE,110856.32,*737*,Rtnd,SENDBOX
+O00573,Yemi Bello,Maidugri,12-03-2023,16/12/2023,Food,76340.87,USDD,Dlvrd,D.H.L
+#120,Bolu M@ikudi,JOS,"July 03, 2023",05/07/2023,Books,61498.08,TRANSFER,In-Transit,G.I.G
+ORD0004,David Abiodun,Benin,30.12.2023,04.01.2024,AUTOMOTIVE,138883.29,Trnsfr,Delivered,DHL Nigeria
+#481,sarah afolabi,kano,25.06.2024,06-29-2024,Fashion,136914.35,transfer,Returned,GIGLogistics
+#10,Michael Eze,Oweri,14.03.2023,19-Mar-2023,Auto,12131705,debit card,Dlvrd,
+#ORD275,Ngozi Eze,Lgos,05-Mar-2024,03-17-2024,Electronis,75297.69,ussd,Delivred,RED STAR
+RD-312,Yemi Bello,,27.07.2023,09.08.2023,HOME,119172.15,TRANSFER,DELIVERED,DHL Nig
+#564,Peter Salami,Maiduguri,04/08/2023,2023-08-16,Electronis,41274.49,Cash,Deliverd,RED STAR
+RD-587,Tunde Olawale,Calabar,13.05.2023,2023-05-14,Electrnics,80785.43,ussd,delivered,JumiaLogistics
+ORD-347,Aisha Adeleke,Kanoo,"May 31, 2024","June 06, 2024",auto,"₦66,940.87",bank transfer,In-Transit,Jumia Log
+#ORD219,Fatima Nwachukwu,kano,20/03/2023,25/03/2023,BOOKS,72745.98,bank transfer,Dlvrd,GIG
+ORD-196,John Afolabi,Benin City,"December 05, 2023",06/12/2023,AUTOMOTIVE,67766.69,*737*,Dlvrd,Quik Delivery
+#ORD338,Ibrahim Salami,ASABA,18.01.2023,01-23-2023,Homee,N111924.57,Xfer,In Transit,dhl
+ORD0370,Sola Danladi,Aba,05/01/2023,15-Jan-2023,Sports & Fitness,19176.65,Caard,Delivered,GIG-Logistics
+ord-246,AISHA AFOLABI,abeokuta,05/12/2023,2023-12-18,BEAUTY,N124409.56,Bank Transfer,Return,DhL Nigeria
+ORD_505,Zainab Babatunde,asaba,24-May-2023,2023-06-03,auto,94070.15,debit card,Dlvrd,Jumia Logistics
+ORD-525,Tunde Afolabi,KADUNA,12-03-2023,13/12/2023,Beauty,107723.58,Credit Card,Canceled,KWIK
+ORD-041,Aisha Okonkwo,Engu,"April 04, 2023","April 15, 2023",auto,88214.11,USSD,Dlvrd,JumiaLogistics
+#ORD6,Musa Ogundimu,,2024-05-20,21/05/2024,Automotve,83430.66,debit card,CANCELLED,SENDBOX
+ORD_284,Aliyu Danladi,UYO,26/01/2023,04/02/2023,food,15639.48,transfer,Return,Red-Star
+O00263,Grace Okafor,calabar,2023-01-15,01-28-2023,Beaty,39540.04,Trnsfr,Delayed,Red-Star
+ORD-039,Sola Babatunde,Maiduguri,23-Feb-2024,03-04-2024,BEAUTY,94133.64,Bank Transfer,delivered,Kwik
+ORD0448,Chukwu Bello,Aba,2023-04-22,04-25-2023,Beauty & Personal,"₦114,319.51",Cash,In-Transit,GIG Logistics
+ord-355,Mary Chukwuemeka,kano,27.02.2024,03/03/2024,Beauty,124257.09,Mobile Money,Delayed,DHL
+#ORD188,ALIYU AFOLABI,benincity,12-17-2023,25/12/2023,home,88864.23 naira,Cassh,Delayed,Redstar
+ORD_068,Sola Olawale,Pt Harcourt,02-15-2024,22.02.2024,Fshion,135982.49,transfer,DELIVERED,DHL
+ORD0125,  Emeka Nwosu  ,Maidugury,01-06-2023,01-14-2023,Books,NGN 1030871.43,Cash on Delivery,Dlvrd,Red Star Express
+ord-040,David Babatunde,MAIDUGURI,2023-09-30,02/10/2023,BOOKS,NGN 74575.49,Debit Card,Rtrnd,Jumia Logistics
+ORD-173,Hauwa Maikudi,asaba,2024-02-09,"February 21, 2024",clothing,142410.16 naira,Xfer,Delivered,Red Star Express
+ORD-440,Tunde Ogundimu,warri,04/04/2023,13/04/2023,beauty,91271.83,ussd,Dlvrd,gig logistics
+#340,  Sarah Adeyemi  ,Jos,2023-01-11,"January 24, 2023",fashion,141334.9,CASH,Deliverd,Sndbx
+RD-494,Michael Danladi,abeokuta,08/12/2023,19-Dec-2023,Books,63854.27,Trnsfr,DELIVERED,GIG
+RD-386,musa chukwuemeka,Sokto,05/01/2024,"January 09, 2024",Book,77907.14,Debit Card,Delivered,Kwik-Del
+RD-445,Chukwu Nwosu,Kadna,13.01.2023,15.01.2023,Hom,104083.68,USDD,Dlvrd,Sendbox
+ORD-511,Paul Okafor,IBADAN,21-Nov-2023,12-02-2023,Fashion,146875.77,bank transfer,DELIVERED,DHL
+O00424,SUNDAY GARBA,Ibadaan,15-Mar-2024,27/03/2024,HOME,2442.49,,Dlvrd,KWIK
+ORD0032,Blessing Nwachukwu,maiduguri,02-Jun-2024,03-Jun-2024,books,144855.59,Mobile Money,Delivred,courier plus
+RD-243,Musa Babatunde,Lago,05-18-2024,2024-05-26,Beauty & Personal,66128.85,Mobile Money,Delivered,Red Star
+O00096,james salami,uyo,11.02.2023,02-09-2023,Foood,59550.23,COD,Deliverd,C-Plus
+RD-248,  Yemi Okafor  ,Onitsha,2023-02-23,27/02/2023,books,3.06,USDD,Delivered,DHL
+ORD0208,Ngozi Abiodun,,10-31-2023,"November 04, 2023",fashion,116263.76,USSD,Delivred,KWIK
+ORD-460,Ngozi Nwachukwu,Enugu,01.06.2023,08/06/2023,Fshion,89415.47,ussd,delivered,RED STAR
+O00202,Sarah Ogundimu,CALABAR,11-27-2023,"December 10, 2023",Books,FREE,card,delivered,JumiaLogistics
+#75,Sunday Babatunde,maiduguri,19-Jun-2023,06-20-2023,BEAUTY,117871.17,TRANSFER,Dlayd,RED STAR
+ORD0404,Ade Afolabi,J.O.S,21.03.2023,04-Apr-2023,Hom,"₦104,857.49",*737*,Pndng,GIG
+ORD_591,Aisha Garba,maiduguri,08.09.2023,16-Sep-2023,Electronis,67615.71,debit card,delivered,Sendbox
+RD-062,Zainab Adeleke,ASABA,12-04-2023,11.12.2023,Food,32698.08,Xfer,Deliverd,Jumia Logistics
+ord-286,Ngozi Okafor,Calabar,27/03/2024,01/04/2024,Beaty,FREE,COD,Delivered,JUMIA LOG
+ORD-576,David Bello,Abuja,09-05-2023,09-07-2023,Food & Drink,94993.97,*737*,Rtnd,DhL Nigeria
+O00077,Hauwa Nwachukwu,Sokoto,2024-06-09,16/06/2024,Bok,NGN 58538.75,Transfer,Delivered,SENDBOX
+ORD0268,Michael Garba,kano,29/05/2023,06-08-2023,food,115049.82,Mobile Money,Delivred,SENDBOX
+ORD-454,Aisha Nwosu,Ilorrin,05-18-2024,30/05/2024,books,NGN 18237.8,CARD,returned,Kwik Delivery
+ORD-559,Aliyu Nwosu,abeokuta,"December 21, 2023",28.12.2023,Sports & Fitness,6304.41,Cash on Delivery,delivered,GIG Logistics
+O00069,Sunday Salami,Oweri,2023-06-06,17/06/2023,Groceries,66524.66,CASH,DELAYED,Courier Plus
+ord-558,Bolu Olawale,abuja,09-27-2023,28-Sep-2023,Beaty,50111.77,card,Deliverd,Courier Plus
+RD-502,Grace Adeleke,IBADAN,2024-05-29,"June 01, 2024",Clothing,108050.94,Xfer,Rtrnd,Courierplus
+ORD_005,Bolu Danladi,maiduguri,20/11/2023,"November 22, 2023",sports,84643.85,USDD,delivered,D.H.L
+ORD-431,chidi okonkwo,Ibdn,18/12/2023,01-Jan-2024,,13299.75,ussd,DELIVERED,sendbox
+RD-461,Aisha Nwosu,ILORIN,06.11.2023,09.11.2023,auto,N6.71,Transfer,Dlayd,Redstar
+ORD-362,Peter Eze,SOKOTO,18/11/2023,20/11/2023,AUTOMOTIVE,20892.96 naira,CASH,Dlvrd,Jumia Log
+O00568,Amara Nwachukwu,calabar,03-Jul-2023,2023-07-04,Books,12852.49,,DELIVERED,SENDBOX
+ORD-020,,lagos,12-03-2023,12-05-2023,sports,"₦147,549.04",*737*,RETURNED,
+ORD-359,P3ter Chukwuemek@,ILORIN,2023-01-22,01.02.2023,Groceries,130175.99,USSD,Canceled,JumiaLogistics
+ORD-346,Fatima Afolabi,ABA,2023-04-12,26-Apr-2023,Sprts,114265.55,Mobile Money,Delivred,RED STAR
+#ORD118,Paul Garba,Calabar,05-17-2024,29/05/2024,Electronics,100564.12,ussd,cancelled,G.I.G
+ORD_242,Gr@c3 G@rb@,,"March 21, 2024",04-01-2024,SPORTS,"₦24,201.91",TRANSFER,Deliverd,G.I.G
+ORD0079,Ngozi Danladi,Lag,"February 18, 2023",01-Mar-2023,HOME,92606.63,ussd,Delayed,courier plus
+ORD-489,Emeka Chukwuemeka,onitsha,2023-04-13,2023-04-14,Electronics,16844.5,Cassh,delivered,Red-Star
+ORD0058,mary okafor,jos,05-29-2023,07/06/2023,Food,8807.45,debit card,Dlvrd,SENDBOX
+ORD-181,Ibrahim Afolabi,Lago,24-Dec-2023,12-28-2023,SPORTS,72779.02,Cassh,DELIVERED,JumiaLogistics
+O00403,DAVID OLAWALE,Ibadan,09-09-2023,15/09/2023,Automotive,101233.25,Mobile Money,In-Transit,Quik Delivery
+ORD-043,Aisha Danladi,abuja,"April 18, 2024",04-22-2024,Sprts,43916.34,USSD,Delivred,CourierPlus
+ORD0215,Hauwa Okafor,LG,2023-07-21,01.08.2023,Beauty,81976.93,ussd,delivered,Sndbx
+RD-387,Amara Afolabi,Ibadaan,13-Mar-2023,19/03/2023,Electronic,120061.54,Cash on Delivery,Delivred,Kwik-Del
+ord-082,Amara Adeyemi,FCT,"June 11, 2024",25-Jun-2024,FOOD,55834.86,Mobile Money,delivered,RED STAR
+ORD_134,Yemi Adeyemi,ONITSHA,"March 06, 2023",19/03/2023,Foood,N59489.06,Cash on Delivery,In-Transit,Quik Delivery
+ORD-269,Aisha Okonkwo,asaba,05/06/2023,07/06/2023,beauty,54529.94,ussd,Deliverd,Redstar
+ord-517,ibrahim garba,ABA,"May 10, 2023",21-May-2023,Fashion,517307.18,Transfer,Dlayd,GIGLogistics
+O00162,James Nwachukwu,Benin,08-13-2023,,fashion,40712.52,Caard,pending,C-Plus
+ORD-371,Yemi Adeleke,MAIDUGURI,"May 06, 2024",11.05.2024,home,120432.14,debit card,Deliverd,Red Star Express
+ORD-560,Zainab Afolabi,L.A.G.O.S,27/01/2023,"February 09, 2023",Electronis,104620.64,USDD,Dlvrd,GIGLogistics
+RD-193,Sunday Okonkwo,Abekuta,2024-01-17,20-Jan-2024,Home,109235.26,,Deliverd,Red-Star
+RD-380,Sarah Olawale,ONITSHA,"May 14, 2024",2024-05-15,,140905.71,USSD,Delivred,DHL Nig
+O00547,Emeka Chukwuemeka,Ibdn,24/02/2023,"March 05, 2023",Sports & Fitness,1961.17,Transfer,delivered,Courier Plus
+ORD-278,  Blessing Maikudi  ,KADUNA,04-27-2024,05-09-2024,Electronics,146923.14,Debit Card,Rtrnd,SENDBOX
+ORD_294,Peter Afolabi,sokoto,"February 01, 2023",13-Feb-2023,Home Goods,83757.82,Cash on Delivery,Delivred,DHL
+ord-586,Aliyu Ad3leke,benin city,26-Feb-2024,05-Mar-2024,ELECTRONICS,33975.2,Xfer,Dlayd,courier plus
+ORD-426,IBRAHIM DANLADI,Kaduna,"April 06, 2023",17/04/2023,BOOKS,44374.72,,Delivered,dhl
+ORD_305,Kemi Abiodun,Onitsha,19-Mar-2023,24.03.2023,Book,9948.74,cash,Dlvrd,D.H.L
+#ORD105,Emeka Danladi,Benin City,11.06.2024,2024-06-18,Sport,113309.74,COD,Returned,JumiaLogistics
+O00335,Peter Bello,Owerri,05-07-2024,21.05.2024,sports,22774.43,TRANSFER,DELIVERED,Jumia-Log
+ORD0190,James Bello,Kanoo,04/10/2023,16-Oct-2023,Beaty,40186.09,TRANSFER,RETURNED,DHL Nigeria
+ord-140,Zainab Eze,ibadan,19-May-2023,2023-06-01,Homee,37885.66,Mobile Money,Delivred,Jumia-Log
+ORD-158,Chukwu Salami,calabar,06-09-2024,06/06/2024,Fashon,N119277.65,Caard,returned,DHL
+#ORD17,  John Okonkwo  ,Maidugury,2024-03-09,03-10-2024,Bok,4.69,bank transfer,DELIVERED,Courierplus
+ORD-593,Grace Olawale,benin city,"January 06, 2023",10-Jan-2023,Car Parts,83666.28,Card,Delivered,Red Star
+#ORD262,Sunday Adeleke,Benin,23-Jun-2023,"July 03, 2023",food,N128061.86,card,pending,SENDBOX
+#ORD420,Aliyu Nw@chukwu,PH,10-Feb-2024,"February 17, 2024",FASHION,53384.67,USDD,Late,RED STAR
+ORD-122,  Sarah Adeleke  ,Aba,01.05.2024,05-03-2024,Beaty,123282.92,CARD,delivered,C-Plus
+ORD-103,Ibrahim Afolabi,ENUGU,08-Feb-2023,11/02/2023,Electronics,90814.66,CASH,Delivred,Courierplus
+ORD_053,Musa Bello,PH,09-21-2023,29.09.2023,Beuty,147011.39,Cash,Returned,JUMIA LOG
+ORD-566,Musa Bello,Wari,16-Dec-2023,26-Dec-2023,Bok,115582.84,Mobile Money,returned,DHL Nigeria
+RD-443,Hauwa Adeleke,Kanoo,"January 29, 2024",2024-02-09,home,143607.43,COD,Rtnd,kwik delivery
+ord-147,John Adeleke,BN,14.06.2024,18-Jun-2024,Books,NGN 96074.27,CARD,pending,Red-Star
+ORD_353,Bolu Ogundimu,Asab,31.05.2024,"June 07, 2024",Home,77917.39 naira,ussd,In-Transit,KWIK
+RD-513,Uche Ogundimu,Asaba,"July 01, 2023",04-Jul-2023,clothing,"₦14,356.05",USSD,Deliverd,Courier Plus
+RD-496,Paul Okafor,SOKOTO,22.05.2023,03/06/2023,Electronic,87659.45,Transfer,delivered,GIG
+#592,Tunde Eze,abeokuta,08-Apr-2023,"April 12, 2023",Electronis,47406.79,Transfer,Deliverd,C-Plus
+RD-129,mary danladi,warri,03.08.2023,2023-08-08,Sports & Fitness,64046.07,USDD,Dlvrd,Courierplus
+ORD-290,sola garba,Abekuta,29-Jun-2024,09/07/2024,FASHION,104414.92,USDD,Rtrnd,Kwik
+ord-459,Sunday Abiodun,Maidugri,2023-11-28,08.12.2023,sports,12084941,CARD,Rtrnd,G.I.G
+RD-319,Zainab Maikudi,KADUNA,24/06/2023,2023-07-03,AUTOMOTIVE,109772.65,transfer,Deliverd,D.H.L
+ORD-111,Musa Ogundimu,Lag,21.12.2023,2023-12-25,Beauty,6002.87,card,Return,Red Star
+O00423,John Maikudi,IBADAN,20.02.2024,2024-03-04,beauty,32271.38,Mobile Money,Delivered,Jumia Log
+ord-345,Aisha Afolabi,Asab,"October 13, 2023","October 26, 2023",Automotve,N115431.93,Cash on Delivery,Delivred,DHL Nigeria
+ORD-342,sola ogundimu,Aba,05-Jul-2023,12/07/2023,Automotive,74876.59,COD,Returned,Jumia-Log
+O00369,Grace Bello,Ibadan,"March 28, 2024",09-Apr-2024,Food,43333.35,COD,Cancel,D.H.L
+ORD-256,  Sola Garba  ,CALABAR,27.02.2024,03-05-2024,Food & Drink,60166.49,COD,delivered,Jumia Logistics
+ORD-383,Sola Bello,ABEOKUTA,02-Feb-2023,2023-02-08,FOOD,115744.14,Xfer,Dlayd,Courier Plus
+ORD0396,Zainab Abiodun,OWERRI,16.02.2023,02-24-2023,Clothing,29671.58,Credit Card,In-Transit,Red-Star
+#ORD143,hauwa babatunde,Onitsha,01/01/2023,08.01.2023,FOOD,100011.81,Debit Card,In Transit,Kwik
+ORD-485,John Chukwuemeka,KADUNA,10/02/2023,02-15-2023,Fashion,95269.75,Cash,Pend,Jumia Log
+ord-007,James Abiodun,KN,25-Apr-2023,2023-04-28,beauty,25070.81,Credit Card,Delivered,gig logistics
+#447,Grace Abiodun,Kanoo,24.06.2023,27/06/2023,beauty,112737.44,TRANSFER,Pndng,Red-Star
+#12,Fatima Ogundimu,Kadna,2023-04-11,2023-04-06,electronics,147811.02,*737*,Delivred,Sndbx
+ORD-542,GRACE BABATUNDE,Jos,"February 11, 2023",2023-02-25,ELECTRONICS,131929.59,Transfer,returned,Kwik
+#487,sarah afolabi,benincity,07-31-2023,08-04-2023,BOOKS,72372.03,ussd,cancelled,D.H.L
+ORD-238,Uche Salami,ibadan,2024-05-14,22-May-2024,Food & Drink,86174,Card,delivered,JumiaLogistics
+ORD_234,PETER OKAFOR,Kadna,"April 13, 2024",25-Apr-2024,FASHION,129414.46 naira,cash,Deliverd,JumiaLogistics
+ORD-363,Chidi Garba,Benin City,"February 07, 2024",21/02/2024,Auto,"₦127,922.80",USDD,Delivered,Jumia Log
+O00348,Aisha Bello,Abekuta,18.05.2024,23-May-2024,Automotve,76496.07,USDD,Pend,kwik delivery
+#500,Uche Abiodun,PH,03-21-2023,2023-04-03,ELECTRONICS,31057.16,TRANSFER,Deliverd,Courier Plus
+#ORD307,Peter Olawale,Owerri,01-Jan-2023,01-12-2023,AUTOMOTIVE,126763.32,Credit Card,Dlvrd,KWIK
+ORD-059,Amara Maikudi,Lagos,"June 09, 2024",17/06/2024,AUTOMOTIVE,17086.31,USSD,CANCELLED,CourierPlus
+#ORD539,Blessing Chukwuemeka,Ibdn,04.10.2023,2023-10-16,Automotive,111410.85,cash,returned,Red Star Express
+O00233,Fatima Maikudi,Benin-City,"January 16, 2024",01-24-2024,Home,64053.2,Credit Card,Delivred,sendbox
+ORD-574,Mary Eze,WARRI,09-May-2023,13.05.2023,Food,63732.37,ussd,Canceled,GIG
+RD-598,Yemi Okonkwo,Asab,"April 15, 2023",24.04.2023,beauty,1236,transfer,Delivered,Jumia Logistics
+#187,Sola Nwachukwu,Kanoo,2023-07-15,,sports,7812.03,USDD,DELAYED,Red Star
+ord-204,Bolu Salami,jos,2023-11-17,18.11.2023,BEAUTY,NGN 147534.55,Trnsfr,Dlvrd,GIG-Logistics
+ORD-372,  Zainab Adeyemi  ,ILORIN,13-Feb-2024,2024-02-17,Home,120363.96,Cassh,DELAYED,Kwik Delivery
+O00302,Chukwu Olawale,Abuja,2023-05-29,06-05-2023,Food & Drink,98157.82,CASH,CANCELLED,Kwik-Del
+ORD_003,Sarah Adeyemi,Abuia,22.03.2023,"April 05, 2023",BEAUTY,128442.34,*737*,DELIVERED,dhl
+ord-397,,Owerri,20/01/2023,2023-01-29,clothing,48744.24,USSD,delivered,Red Star Express
+ORD-510,Chukwu Okafor,asaba,06-14-2023,21.06.2023,Clothing,92860.34,Cash,Dlvrd,DHL Nig
+ORD-047,ALIYU SALAMI,IBADAN,06-Dec-2023,2023-12-20,Home,145411.34,USSD,Cncld,Sndbx
+ORD-226,Chukwu Olawale,Asaba,2024-04-02,05/04/2024,Home Goods,NGN 1788.3,Bank Transfer,Pndng,GIG Logistics
+#19,Kemi Abiodun,Kanoo,03-Jul-2023,09.07.2023,Electronis,122671.4,cash,Delivred,DHL Nig
+ORD_169,David Danladi,sokoto,"January 20, 2024",2024-01-22,books,50333.09,USDD,Rtnd,courier plus
+ORD-395,Emeka Eze,Maidugri,14-Nov-2023,20-Nov-2023,Auto,49457.23,Mobile Money,Dlvrd,JUMIA LOG
+ORD-401,Chidi Salami,ASABA,"September 09, 2023",16-Sep-2023,Home,138349.8,Cassh,DELIVERED,sendbox
+#439,Musa Chukwuemeka,ILORIN,2023-12-17,26.12.2023,Home Goods,10627.92,Transfer,delayed,DHL
+#429,Fatima Ogundimu,Enugo,05/02/2024,18-Feb-2024,Fashon,7506.01,TRANSFER,Cancel,Jumia Logistics
+#ORD456,Ibrahim Babatunde,Abekuta,09-Feb-2024,,Home & Living,112311.93,Credit Card,Deliverd,Kwik Delivery
+ORD0292,Bolu Eze,LAGOS,24.01.2024,2024-02-04,Home Goods,59107.42,transfer,DELAYED,JUMIA LOG
+ord-094,Grace Danladi,lagos,2023-09-04,2023-09-10,books,109398.7,Cash,Deliverd,CourierPlus
+RD-214,kemi nwachukwu,Ab@,22/06/2023,,AUTOMOTIVE,46515.3,Trnsfr,In-Transit,Jumia Log
+ORD-259,Aliyu Okafor,Ilorin,02/03/2024,04.03.2024,Sprts,FREE,,Delivred,RED STAR
+RD-427,Grace Nwosu,kaduna,25/02/2024,"February 27, 2024",BEAUTY,106741.07,COD,Delivred,KWIK
+#107,Mary Nwosu,UYO,27.04.2024,10/05/2024,Fshion,124487.33,bank transfer,delayed,JUMIA LOG
+O00116,Michael Nwachukwu,J.O.S,09-03-2023,16-Sep-2023,Automotive,108639.62,cash,Dlvrd,GIGLogistics
+RD-377,musa babatunde,Ibadan,"May 13, 2024",05-27-2024,Beauty,104708.83 naira,card,delivered,Kwik
+ORD0453,Ngozi Ogundimu,LAGOS,04.09.2023,07.09.2023,Food & Drink,33836.03,USSD,Dlayd,Quik Delivery
+ORD-540,,JOS,"October 08, 2023",19-Oct-2023,Bok,149097.61,Credit Card,DELAYED,Sndbx
+ORD-037,,Port-Harcourt,10-19-2023,27/10/2023,Automotive,FREE,Cash,Pending,
+ORD-356,,Abeokuta,10-07-2023,12.10.2023,Electronics,NGN 45398.9,*737*,Delayed,Red Star
+ord-205,Chidi Olawale,Ibadan,13/10/2023,"October 16, 2023",HOME,116275.48,,Rtrnd,Jumia Logistics
+ORD0245,uche okonkwo,Maiduguri,2023-01-20,29/01/2023,Beauty,74543.35,Cash on Delivery,Pndng,Kwik Delivery
+#ORD222,  David Bello  ,Asaba,27.07.2023,05-Aug-2023,,20419,Caard,Late,C-Plus
+#247,Grace Afolabi,WARRI,2023-02-04,"February 16, 2023",Homee,111963.96,CARD,DELIVERED,dhl
+ord-365,Kemi Chukwuemeka,benin city,13/07/2023,2023-07-20,Automotive,7.53,ussd,Rtnd,Red-Star
+ord-473,Aliyu Maikudi,Ab,03-Jan-2023,13/01/2023,Automotive,92714.01,Cash,Delivred,DHL Nig
+O00250,Michael Babatunde,abeokuta,2024-01-02,07-Jan-2024,Home & Living,110127.96,Transfer,Late,JumiaLogistics
+ORD0123,JAMES NWACHUKWU,sokoto,06/12/2023,18.12.2023,FASHION,92465.92,Cash,In-Transit,RED STAR
+ORD-527,Amara Olawale,Port-Harcourt,2023-10-19,"October 26, 2023",clothing,108764.8,Cash on Delivery,DELIVERED,Red-Star
+RD-165,Sarah Bello,ABA,06-22-2024,24.06.2024,Homee,118984.54,cash,Rtrnd,Kwik-Del
+ORD-529,Ngozi Adeleke,P/H,2023-01-06,01-20-2023,Groceries,122060.34,transfer,Delayed,dhl
+O00532,John Eze,kano,06-10-2024,23.06.2024,BEAUTY,68412.35,Xfer,Delivered,Jumia-Log
+ORD-240,Chidi Afolabi,Port Harcourt,11-Feb-2024,"February 13, 2024",Sprts,98570.07,cash,DELIVERED,Red Star
+ORD-441,David Ogundimu,Abeokuta,12-Feb-2024,20-Feb-2024,Book,114069.89,bank transfer,RETURNED,RED STAR
+ORD0361,Ade Ogundimu,CALABAR,04-13-2023,"April 25, 2023",Car Parts,578148.23,ussd,delivered,kwik delivery
+ORD-296,Chidi Danladi,benincity,05/04/2024,09-Apr-2024,Sport,"₦86,876.50",Credit Card,DELIVERED,GIGLogistics
+RD-523,David Okonkwo,Asaba,30-Jul-2023,07-Aug-2023,Book,53584.41,Debit Card,Delivered,courier plus
+ORD_071,Peter Nwosu,Enugu,28-May-2024,2024-05-29,Beuty,66473.85,TRANSFER,DELIVERED,RED STAR
+O00519,aliyu bello,WARRI,2023-01-24,2023-02-03,Home,126848.92,Bank Transfer,Delivered,Red Star Express
+ORD_099,Fatima Salami,aba,"November 29, 2023",07-Dec-2023,Sprts,143643.27,cash,PENDING,SENDBOX
+#ORD571,Ade Adeleke,Ibadaan,"April 26, 2024",2024-05-01,Electronics,121397.1,cash,Deliverd,G.I.G
+#ORD569,Em3k@ Adeleke,abuja,23/09/2023,26.09.2023,Automotve,83457.75,CASH,DELIVERED,Courier Plus
+RD-031,PETER ADEYEMI,Benin City,27.01.2023,06-Feb-2023,Sports & Fitness,19037.2,CARD,In Transit,Jumia Logistics
+ORD-506,Emeka Bello,Enugo,28.02.2023,"March 04, 2023",Books,131249.67,Cash on Delivery,Deliverd,Send Box
+O00128,Sarah Chukwuemeka,ONITSHA,11-18-2023,11-25-2023,Food,30770.21,Trnsfr,Returned,KWIK
+#ORD2,Peter Ogundimu,ibadan,03-05-2024,2024-03-15,Food,15410.74,Cash,Rtrnd,GIG-Logistics
+O00374,Blessing Nwosu,ABEOKUTA,2024-06-23,07-02-2024,home,45760.89,*737*,Dlayd,GIG Logistics
+#ORD28,Ibrahim Salami,Asaba,03-Feb-2024,14.02.2024,Bok,5038.2,Xfer,Delivered,Jumia-Log
+ORD-090,John Abiodun,owerri,"May 09, 2023",2023-05-19,Homee,135398.13,Caard,Cancelled,G.I.G
+ORD_309,Grace Nwosu,maiduguri,03.11.2023,05.11.2023,Home,108241.12,Mobile Money,Deliverd,kwik delivery
+#74,sola eze,Warri,01-07-2024,11-Jan-2024,Electronic,FREE,ussd,Delivred,Sndbx
+#ORD475,Emeka Nwachukwu,Lago,03.10.2023,11-Oct-2023,Beauty,6998.19,Cash,delivered,Redstar
+ORD0172,Mary Nwachukwu,sokoto,05.03.2023,2023-03-17,Electronis,63376.18,USDD,Canceled,Jumia Logistics
+ORD0378,uche salami,Sokoto,"March 22, 2024",05/04/2024,fashion,111078.4,Mobile Money,Dlvrd,CourierPlus
+#434,Hauwa Bello,enugu,12.12.2023,2023-12-23,Electronis,122528.03,bank transfer,Deliverd,RED STAR
+ord-550,Sunday Bello,Lgos,20/04/2024,2024-04-27,Electronic,98921.53,cash,Delivred,Redstar
+ORD_092,Zainab Olawale,J.O.S,"May 10, 2024",16/05/2024,Hom,84686.03,USSD,delivered,
+ORD_366,Aliyu Chukwuemeka,Jos,2023-09-20,2023-09-29,ELECTRONICS,57759.71,cash,Pend,GIGLogistics
+ORD-534,Yemi Adeleke,Jos,"March 17, 2024",24-Mar-2024,Electronic,13927497,Bank Transfer,DELIVERED,Courierplus
+#ORD126,Emeka Okonkwo,,06.09.2023,09-Sep-2023,fashion,63744.25,CARD,delivered,Quik Delivery
+O00599,Yemi Babatunde,kano,23-Feb-2023,08-Mar-2023,Book,106230.44,COD,Deliverd,sendbox
+ORD-316,MUSA SALAMI,Abj,01-08-2024,01-15-2024,home,N73274.15,Trnsfr,Deliverd,Jumia-Log
+ORD-013,PAUL GARBA,Aba,13/05/2024,2024-05-18,,137988.68,Credit Card,delivered,GIGLogistics
+ORD0408,Hauwa Okafor,benincity,04/04/2024,04-11-2024,Books,30334.65,debit card,Delayed,RED STAR
+#ORD260,emeka olawale,Owerri,05-31-2024,07-Jun-2024,BOOKS,75771.64,Xfer,Deliverd,DHL Nig
+ORD-411,Sunday Afolabi,Sokoto,25.02.2024,"March 06, 2024",Groceries,117656.44,COD,Delivered,GIGLogistics
+ord-239,Hauwa Salami,J.O.S,26.10.2023,05-Nov-2023,books,4442.06,Cassh,Returned,DHL
+#ORD497,Grace Eze,Wari,20-Mar-2023,,Stationary,117428.14,Cash,Delivred,GIGLogistics
+O00480,Kemi Bello,ONITSHA,23/02/2023,03-01-2023,FOOD,"₦15,436.20",TRANSFER,DELIVERED,Kwik-Del
+#484,Sarah Okafor,Uyo State,06/10/2023,"October 07, 2023",SPORTS,45158.19,card,Deliverd,dhl
+#144,grace nwosu,Benin-City,2024-03-15,2024-03-27,Automotive,N17.84,ussd,delivered,Red Star Express
+O00364,ibrahim danladi,kaduna,"May 01, 2023",,SPORTS,57928.95,bank transfer,DELIVERED,Quik Delivery
+ORD-015,Bolu M@ikudi,Jos,2023-01-10,2023-01-20,BEAUTY,66289.5,COD,Pend,G.I.G
+ORD-582,John Ok@for,Owerri,"June 17, 2024",01.07.2024,Beuty,71047.2,Trnsfr,delivered,DhL Nigeria
+ORD-508,Aliyu Nwachukwu,abeokuta,"August 07, 2023",08-Aug-2023,electronics,142944.11,CASH,Delayed,DHL Nigeria
+ORD_209,AMARA NWOSU,ENUGU,2023-03-15,18-Mar-2023,Fshion,136737,Mobile Money,Delivered,Red Star Express
+O00132,ade danladi,MAIDUGURI,16/11/2023,"November 29, 2023",FASHION,"₦106,906.07",Cassh,delivered,Kwik
+ORD-175,Sarah Bello,Owerri,05/03/2024,"March 08, 2024",Sprts,131806.14,USDD,Delayed,dhl
+#ORD463,Chidi Garba,Aba,01/08/2023,"August 03, 2023",,NGN 98243.43,Cash,Delivered,courier plus
+ORD_192,Musa Olawale,Kano,2024-04-20,04-18-2024,Electronics,99839.9 naira,Cash on Delivery,PENDING,Kwik Delivery
+RD-271,Chukwu Adeleke,ILORIN,16-May-2024,30/05/2024,Bok,86218.23,Credit Card,Dlvrd,Sendbox
+O00375,Mary Okonkwo,Owerri,09-Jun-2024,2024-06-16,Electronics,69968.96,USSD,Delivred,JumiaLogistics
+ORD-124,mary afolabi,ASABA,22-Aug-2023,29/08/2023,Beuty,40927.83,Trnsfr,DELIVERED,GIG Logistics
+#ORD139,David Eze,Kaduna,26.12.2023,05-Jan-2024,Foood,81276.51,CASH,In-Transit,Courier Plus
+ord-052,MUSA SALAMI,jos,21.05.2023,2023-06-01,FASHION,6290996,COD,DELIVERED,sendbox
+ORD-221,Ibrahim Abiodun,UYO,"June 24, 2023",01/07/2023,Homee,138430.44,card,delivered,GIG Logistics
+ORD-113,Ade Afolabi,Ab@,"June 29, 2023",06-Jul-2023,books,28397.97,Xfer,Delivred,DHL Nig
+#266,James Okonkwo,ONITSHA,22.12.2023,12-28-2023,Electrnics,34611.82,ussd,Dlvrd,
+ORD-407,Blessing Adeleke,Ab@,"June 29, 2024",10-Jul-2024,BOOKS,78226,debit card,DELIVERED,Red-Star
+ORD0273,paul maikudi,Oweri,13.06.2024,21-Jun-2024,Home Goods,68181.99 naira,Bank Transfer,DELIVERED,Quik Delivery
+ord-343,M@ry S@l@mi,SOKOTO,"April 29, 2023",07.05.2023,books,134318.44,cash,Delivred,Red Star Express
+ord-257,Aliyu Garba,Oweri,11-04-2023,2023-11-08,Home,FREE,COD,DELIVERED,SENDBOX
+ord-183,Zainab Abiodun,calabar,05-02-2024,"May 13, 2024",Sports,111396.91,Trnsfr,Cncld,GIG
+#ORD106,Chukwu Maikudi,Warri,30-Aug-2023,08-29-2023,SPORTS,FREE,Bank Transfer,Rtrnd,Jumia-Log
+ord-301,AISHA BELLO,Maidugri,06-21-2023,2023-07-03,auto,142289.51,Bank Transfer,Late,Redstar
+ORD0453,Ngozi Ogundimu,LAGOS,04.09.2023,07.09.2023,Food & Drink,33836.03,USSD,Dlayd,Quik Delivery
+RD-437,James Chukwuemeka,Lag,"March 11, 2023",21-Mar-2023,Electrnics,19484.37,ussd,Delayed,dhl
+ORD_241,Zainab Olawale,Maidugury,2023-05-15,2023-05-18,Sprts,145461.8,bank transfer,In Transit,
+ord-231,Tunde Afolabi,Aba,06-12-2024,24/06/2024,Home Goods,33566.35,Trnsfr,delayed,Red Star
+ORD-154,Grace Adeyemi,calabar,08-Nov-2023,11-12-2023,Home,4562.63,CARD,Delivred,Redstar
+#ORD327,Mus@ Okonkwo,JOS,31/03/2024,04-10-2024,electronics,68933.05 naira,Trnsfr,delayed,DhL Nigeria
+#ORD476,Yemi Afolabi,ilorin,02-May-2023,11.05.2023,Fashion,19792.41,Caard,Delayed,kwik delivery
+ORD-418,Bolu Garba,Ibdn,2024-03-15,"March 19, 2024",Beauty,N42730.92,ussd,Return,Sndbx
+O00295,Mary Ogundimu,Ibadan,12/01/2023,13.01.2023,Homee,129162.76,USDD,Deliverd,Red-Star
+ORD0151,Kemi Nwosu,UYO,01-31-2023,"February 07, 2023",Electronis,FREE,Credit Card,Delayed,DhL Nigeria
+ORD-501,Ade Babatunde,uyo,2024-05-10,05-07-2024,Food & Drink,146103.76,CARD,Delivred,Courier Plus
+O00164,Chidi Olawale,kaduna,2023-02-27,"March 03, 2023",Groceries,120561.24,Card,Delivred,DHL Nigeria
+RD-168,Ngozi Danladi,owerri,02-28-2024,"March 06, 2024",Home Goods,127018.61,CASH,Pending,Jumia Log
+ORD_376,  Aliyu Abiodun  ,portharcourt,"April 10, 2024",04-18-2024,Sports & Fitness,"₦80,622.02",Card,Dlvrd,RED STAR
+ORD-207,Aliyu Chukwuemeka,Ab@,10-Jan-2023,16/01/2023,Fashon,"₦108,872.37",COD,Canceled,Red Star Express
+ORD-189,Amara Bello,Ilorin,19.02.2023,2023-02-20,Sport,31618.74,CARD,Delivered,Kwik-Del
+ORD_524,chukwu okafor,Ab@,24.02.2024,"March 09, 2024",HOME,33062.44,Xfer,Delivered,Jumia Logistics
+RD-325,Hauwa Abiodun,Port Harcourt,2023-07-12,2023-07-20,HOME,FREE,bank transfer,Pending,Jumia-Log
+RD-146,Ade Ogundimu,ibadan,2023-03-30,"April 02, 2023",,83456.1,Cassh,Delivred,Jumia Log
+#409,Ngozi D@nl@di,Aba,01-25-2023,02-05-2023,Foood,141588.59,USSD,Dlayd,GIG Logistics
+RD-227,Aliyu Afolabi,UYO,"September 27, 2023",2023-09-29,electronics,6640684,cash,Deliverd,Courierplus
+ORD-217,Mary Adeyemi,,05-14-2024,19/05/2024,AUTOMOTIVE,6945.8,debit card,PENDING,SENDBOX
+ord-512,James Bello,Maidugri,2023-01-15,01-21-2023,BOOKS,81827.59,Cash,Pndng,Redstar
+ORD-203,Amara Nwachukwu,KANO,05-30-2023,11/06/2023,Beuty,58944.11,Cassh,Late,RED STAR
+ord-299,Musa Okafor,PH,2024-04-29,09.05.2024,clothing,38555.6,CASH,Delivered,CourierPlus
+O00552,David Abiodun,UYO,11-Mar-2023,22-Mar-2023,Homee,143323.99,USSD,Delivred,DHL
+ORD-458,Michael Afolabi,ABEOKUTA,06.02.2024,20/02/2024,Book,109286.44,Trnsfr,Canceled,GIG
+#474,Tunde Maikudi,IBADAN,30-Dec-2023,,Fashon,38.7,Mobile Money,DELIVERED,Red Star
+ORD-554,Aliyu Abiodun,Maidugri,"March 16, 2023",22.03.2023,Homee,30760.43,*737*,Delivred,DHL Nig
+ORD-499,Ibrahim Nwosu,Maidugri,13.08.2023,"August 27, 2023",Groceries,124260.8 naira,Cassh,DELIVERED,GIG Logistics
+RD-176,Amara Afolabi,ABA,17.02.2024,27.02.2024,Electronic,41019.07,CASH,Dlvrd,Sendbox
+ORD0556,Sunday Ogundimu,Pt Harcourt,"May 27, 2024",06/06/2024,fashion,N45435.82,Transfer,DELAYED,GIG
+O00095,Aisha Garba,Asaba,07-Jan-2024,"January 09, 2024",Home,119439.69,cash,Deliverd,Red-Star
+#230,Aisha Olawale,Maidugri,"September 14, 2023",21-Sep-2023,Electronis,11065.58,Trnsfr,RETURNED,Redstar
+ORD_415,  Musa Afolabi  ,Enugu,24/08/2023,28-Aug-2023,Food,N5472.62,Cash on Delivery,Deliverd,SENDBOX
+O00281,Aliyu Danladi,IBADAN,01-30-2023,02-03-2023,Homee,129918.43,Mobile Money,Pending,Sndbx
+#ORD435,Chidi Afolabi,LG,05-04-2023,05-06-2023,Beauty & Personal,99036.29,Cash,delivered,Redstar
+ORD-229,Bolu Salami,Owerri,12-23-2023,06/01/2024,sports,NGN 16863.28,CASH,Pend,JUMIA LOG
+#101,Ibrahim Garba,CALABAR,28-Mar-2024,09/04/2024,Home,88437.74,Trnsfr,Delivered,Redstar
+ORD-291,ibrahim danladi,Asab,27.06.2023,29.06.2023,Foood,67337.22,USSD,In Transit,Sndbx
+#551,Ade Maikudi,PH,"January 10, 2023","January 16, 2023",HOME,84909.02,TRANSFER,Rtnd,Jumia-Log
+O00367,Emeka Nwosu,Uyo State,03-Jul-2023,07-12-2023,HOME,N7580.16,Cassh,Dlvrd,JumiaLogistics
+ord-054,Sarah Afolabi,Jos,07.05.2023,18.05.2023,Beauty & Personal,1826352.27,Trnsfr,Dlvrd,kwik delivery
+#228,John Okafor,P/H,2023-08-26,09-06-2023,BOOKS,6141219,debit card,Returned,courier plus
+ORD-392,James Afolabi,Owerri,21-Mar-2023,"March 30, 2023",Book,142225.19,ussd,delivered,RED STAR
+#ORD596,Grace Nwosu,Lgos,30-Apr-2024,,beauty,81121.99,Credit Card,delivered,gig logistics
+ORD0378,uche salami,Sokoto,"March 22, 2024",05/04/2024,fashion,111078.4,Mobile Money,Dlvrd,CourierPlus
+ORD-155,emeka okonkwo,Benin-City,17-Apr-2023,21-Apr-2023,Stationary,69310.25,Credit Card,Dlvrd,GIGLogistics
+ORD_252,Ngozi Bello,Port Harcourt,07-Jun-2023,13.06.2023,home,31109.78,Card,In-Transit,RED STAR
+#276,Hauwa Garba,calabar,"February 24, 2024",2024-03-05,electronics,"₦98,338.25",debit card,Dlayd,JumiaLogistics
+#ORD482,,CALABAR,18/12/2023,"December 26, 2023",FOOD,107881.56,Debit Card,Deliverd,Sendbox
+ORD-159,Sarah Okonkwo,Port Harcourt,15.02.2024,2024-02-26,fashion,N67071.27,Cash,Dlvrd,GIG
+ORD-272,Chukwu Maikudi,abuja,09.09.2023,2023-09-16,Sport,46378.57,ussd,Deliverd,G.I.G
+ORD0045,Kemi Ogundimu,UYO,15.07.2023,24/07/2023,ELECTRONICS,125783.91,ussd,Dlvrd,JumiaLogistics
+ord-201,Ibrahim Garba,calabar,22.05.2023,"June 03, 2023",beauty,44296.34,Trnsfr,delayed,Courierplus
+#ORD114,Chukwu Chukwu3mek@,Aba,"March 01, 2023","March 08, 2023",auto,10896312,,Dlayd,GIG Logistics
+#565,  Bolu Afolabi  ,Sokoto,20-Jan-2023,2023-01-27,Sports,"₦52,822.88",CASH,Cancel,DHL Nigeria
+#ORD212,Fatima Chukwuemeka,onitsha,"August 05, 2023",16/08/2023,fashion,"₦85,526.60",USDD,Delivred,gig logistics
+ORD0109,Michael Adeleke,Port-Harcourt,12-Aug-2023,08-13-2023,ELECTRONICS,115576.84,*737*,Pndng,RED STAR
+ord-321,Fatima Salami,Owerri,2023-10-30,01-Nov-2023,AUTOMOTIVE,131255.66,Cassh,Delivred,G.I.G
+ORD-170,michael danladi,Jos,2023-10-16,18-Oct-2023,Books,99641.01,Transfer,delivered,kwik delivery
+ORD-080,Chidi Afolabi,Abuia,"March 11, 2023","March 20, 2023",BOOKS,3420.09,cash,Rtnd,GIGLogistics
+ord-051,Chidi Afolabi,Owerri,01-26-2024,05.02.2024,auto,35287.64,Trnsfr,DELIVERED,Quik Delivery
+O00085,Ade Nwachukwu,Pt Harcourt,"January 28, 2024",29/01/2024,Home & Living,47843.43,Card,Return,C-Plus
+ORD-009,Sund@y B3llo,P/H,02-13-2024,24-Feb-2024,Electrnics,"₦88,677.58",card,Delivered,SENDBOX
+O00033,Sola Salami,ILORIN,2023-11-27,12-11-2023,Electronis,2809414,CASH,Deliverd,kwik delivery
+ORD_100,Michael Okonkwo,Oweri,08-01-2023,09-Aug-2023,Book,143236.72,Cash,Delivred,gig logistics
+ORD_110,Ngozi Abiodun,ilorin,"January 20, 2024",31/01/2024,Beauty,146795.11,USDD,delivered,DHL Nig
+ord-137,Am@r@ Okonkwo,warri,2024-05-15,25/05/2024,Automotve,115122.01,Credit Card,Deliverd,SENDBOX
+ORD_331,David Maikudi,J.O.S,31/03/2023,07-Apr-2023,Homee,56074.87,,Dlvrd,Sndbx
+#223,Musa Danladi,ILORIN,"January 15, 2024",27-Jan-2024,Fashon,72094.04,CARD,Dlayd,Redstar
+ord-029,Aish@ Ogundimu,Port-Harcourt,12-02-2023,08-Dec-2023,Electronic,149986.27,Caard,Pending,Sendbox
+#ORD288,tunde salami,,30-Jun-2024,"July 13, 2024",Auto,22414.53,CASH,Delivred,kwik delivery
+#531,PETER NWOSU,Abeokuta,28/12/2023,11.01.2024,Beauty,70754.41,USSD,Deliverd,Sndbx
+ORD_056,Bolu Salami,benin city,2024-05-16,21.05.2024,Clothing,135352.74,Debit Card,Delivered,Send Box
+ord-157,Sunday Okonkwo,PH,21/02/2024,27-Feb-2024,Sports & Fitness,7009.14,cash,delivered,Jumia-Log
+RD-544,Michael Adeyemi,P/H,05-23-2023,27/05/2023,Automotve,117578.45,card,In Transit,JUMIA LOG
+ORD-555,  John Bello  ,Ibadan,2024-06-25,"June 29, 2024",Food & Drink,129809.18,ussd,Cancel,Send Box
+ORD-311,SOLA EZE,ABUJA,25-May-2023,"May 26, 2023",Fashon,NGN 125467.47,Card,Deliverd,DHL Nigeria
+RD-049,Emeka Chukwuemeka,owerri,11-29-2023,12-04-2023,home,130755.1,Bank Transfer,cancelled,DHL Nig
+RD-084,KEMI ADELEKE,ILORIN,12-26-2023,"January 07, 2024",Home,91528.36,card,Delivred,JumiaLogistics
+O00518,  John Nwachukwu  ,benin city,27.01.2024,,Beaty,109220.58,*737*,DELAYED,GIG
+RD-034,Grace Garba,Abekuta,2023-01-11,15/01/2023,Automotive,34017.86,Cassh,Late,Courierplus
+ORD-438,Sola Salami,ABA,25-May-2024,28/05/2024,SPORTS,114313.59,*737*,returned,SENDBOX
+#36,Ade Abiodun,calabar,21/06/2024,06-23-2024,Sports,83450.49,Trnsfr,Canceled,GIG Logistics
+O00332,Uche Abiodun,Sokto,31.03.2023,08-Apr-2023,Hom,1382562,USDD,Pending,C-Plus
+ORD-064,Bolu Afolabi,ABA,2023-03-13,2023-03-24,FOOD,116748.51,Card,Deliverd,G.I.G
+O00414,David Olawale,OWERRI,12-Mar-2023,23.03.2023,Sport,16622.34,Debit Card,Delivered,Kwik
+ORD_385,yemi eze,Kadna,25/05/2024,27.05.2024,Books,121562.64,Transfer,Delivred,Send Box
+ORD-548,Ibrahim Maikudi,Abuja,2024-06-16,20-Jun-2024,Sport,28422.55,COD,In-Transit,Kwik-Del
+ORD0323,michael adeyemi,ABA,11.02.2023,"February 14, 2023",Clothing,140933.04,Xfer,returned,JumiaLogistics
+O00373,kemi ogundimu,SOKOTO,12-Jan-2024,20-Jan-2024,Home Goods,14849.17,ussd,In Transit,DHL Nig
+ord-541,Ngozi Okafor,IBADAN,"May 06, 2023",05-14-2023,Home & Living,93945.47,Cash on Delivery,DELIVERED,GIG-Logistics
+ORD_235,Ade Afolabi,Enugo,08-Jul-2023,12.07.2023,Home & Living,122314.41,bank transfer,Dlvrd,DHL
+O00413,Uche Olawale,LAGOS,15/11/2023,24/11/2023,electronics,125441.06,*737*,delivered,Kwik
+ord-337,Ade Danladi,Enugu,27/12/2023,"December 28, 2023",beauty,124904.46,Debit Card,Delivered,GIG
+ORD0344,Emeka Afolabi,Owerri,10.02.2024,2024-02-21,Home,3066387,USSD,Dlvrd,KWIK
+#46,S@r@h Afol@bi,,22/01/2024,28.01.2024,Groceries,137101.1,,pending,Courierplus
+#ORD425,Emeka Olawale,Asab,"November 03, 2023",2023-11-04,books,10492.68,USSD,Dlvrd,kwik delivery
+ORD-304,David Adeyemi,Kano,"September 15, 2023",2023-09-16,clothing,57017.81,Transfer,DELAYED,Jumia-Log
+RD-545,Sunday Okafor,LG,02-Jan-2024,09-Jan-2024,clothing,136120.47,cash,Dlayd,Jumia Logistics
+ORD-178,Fatima Adeyemi,Kaduna,"June 02, 2024","June 15, 2024",Beauty,137786.63,CASH,Cancel,Red Star Express
+ORD-220,AMARA EZE,onitsha,14/02/2023,24/02/2023,Bok,96005.78,Cash,Deliverd,RED STAR
+ORD_537,Chidi Abiodun,PH,26-May-2023,06-Jun-2023,Electrnics,"₦71,600.69",Bank Transfer,Delivered,courier plus
+ORD-297,Zainab Okonkwo,Pt Harcourt,08/05/2024,10.05.2024,fashion,111511.23,debit card,In-Transit,courier plus
+ord-022,  Michael Eze  ,ilorin,13-Nov-2023,19.11.2023,Sport,1060.49,USDD,DELAYED,RED STAR
+ORD-249,Amara Nwachukwu,Calabar,05-26-2024,05.06.2024,Home Goods,147269.68,Cash on Delivery,Returned,KWIK
+ORD_184,Ade Okonkwo,Maiduguri,12-30-2023,13-Jan-2024,Automotive,87952.62,Debit Card,Cancel,G.I.G
+ord-421,,benin city,18-Mar-2024,03-31-2024,FASHION,44883.16,Caard,delivered,GIG Logistics
+ORD-326,UCHE ADEYEMI,Benin-City,16-May-2023,23.05.2023,Food & Drink,98708.31,USDD,Dlayd,Sndbx
+ORD-310,Yemi Adeleke,Ab,26-May-2024,2024-06-09,fashion,100430.15,Trnsfr,Delayed,G.I.G
+ORD-200,fatima eze,ASABA,09/05/2024,22.05.2024,Book,137470.63,Cash on Delivery,PENDING,Red Star
+ORD_451,Chidi Nwachukwu,Ab@,2024-06-11,15.06.2024,Beaty,111141.49,Cash on Delivery,Pndng,Quik Delivery
+RD-138,Ngozi Chukwuemeka,Ab,"February 12, 2023",20/02/2023,SPORTS,13960.47,Caard,cancelled,Sndbx
+O00025,David Maikudi,Calbr,"April 20, 2024",04-29-2024,Homee,68060.39,COD,delivered,Jumia-Log
+ORD-400,Kemi Garba,kano,10.05.2024,,HOME,67451.36,Xfer,PENDING,CourierPlus
+#444,Grace Adeleke,Jos,01.03.2023,08/03/2023,HOME,FREE,bank transfer,In Transit,sendbox
+#ORD185,Bolu Olawale,Owerri,2024-01-26,02/02/2024,HOME,NGN 27873.16,Cassh,PENDING,
+ORD-206,Fatima Ogundimu,Ilorin,"November 22, 2023",2023-11-25,food,99836.84,cash,Pend,C-Plus
+#ORD135,Y3mi Bello,kano,2023-11-01,11.11.2023,Groceries,58881.03,Mobile Money,Delivred,CourierPlus
+#300,Grace Abiodun,ABUJA,04/06/2023,06-10-2023,fashion,123436.84,Mobile Money,Dlvrd,
+ORD-117,Sarah Ogundimu,KD,08-15-2023,"August 16, 2023",Beauty & Personal,37613.77,CASH,Return,Quik Delivery
+ORD_213,emeka chukwuemeka,Asaba,11-Apr-2023,04-21-2023,BEAUTY,49923.57,bank transfer,In-Transit,Jumia-Log
+#ORD595,Emeka Babatunde,KADUNA,10-05-2023,"October 15, 2023",Foood,713444,Cassh,returned,D.H.L
+ORD-574,Mary Eze,WARRI,09-May-2023,13.05.2023,Food,63732.37,ussd,Canceled,GIG
+ORD-567,,Abj,2023-10-15,20/10/2023,SPORTS,38326.48,Card,Delivred,JumiaLogistics
+ORD-468,Ade Babatunde,Asaba,10-Nov-2023,2023-11-23,electronics,113029.06 naira,Mobile Money,DELAYED,G.I.G
+#ORD492,mary ogundimu,WARRI,06-04-2023,"June 13, 2023",Food,75388.37,Cassh,Returned,sendbox
+#232,Bolu Chukwuemeka,jos,08-29-2023,12/09/2023,Fashion,101696.01,Caard,Cancelled,Send Box
+#406,MARY ABIODUN,Ibadan,12/10/2023,"October 20, 2023",HOME,128466.36,cash,Cancelled,Quik Delivery
+ORD0218,James Okonkwo,Benin-City,06-28-2023,"July 05, 2023",BOOKS,52409.82,Credit Card,Canceled,DHL
+ORD-057,Am@r@ Ol@w@l3,Ibadaan,04.04.2023,"April 15, 2023",Beauty,83576.96,TRANSFER,Rtrnd,gig logistics
+ORD_318,Kemi Adeyemi,Abuia,01.02.2024,09/02/2024,ELECTRONICS,127896.05,Xfer,DELIVERED,CourierPlus
+ORD_184,,Maiduguri,12-30-2023,13-Jan-2024,Automotive,87952.62,Debit Card,Cancel,G.I.G
+O00530,Mary Bello,Benin-City,01-Jun-2023,15.06.2023,Car Parts,42800.7,ussd,DELIVERED,Kwik Delivery
+ORD0528,Ibrahim Nwachukwu,Kano,18-Feb-2023,02-Mar-2023,Beauty,21671.43,ussd,delivered,kwik delivery
+ORD-341,James Adeyemi,warri,2023-09-05,"September 07, 2023",Electronic,32888.29,*737*,delayed,Red Star Express
+ORD-182,Chukwu Olawale,L.A.G.O.S,12/07/2023,2023-07-25,SPORTS,61285.24,TRANSFER,returned,Kwik-Del
+ORD-098,  Peter Bello  ,MAIDUGURI,25/01/2024,2024-02-05,books,31379.86,USSD,Rtrnd,D.H.L
+ORD-115,  Bolu Danladi  ,aba,12.07.2023,22.07.2023,electronics,N144349.56,ussd,In Transit,DHL Nig
+ORD0398,Michael Abiodun,ENUGU,2024-06-24,2024-06-29,fashion,61684.19 naira,cash,Delivered,Jumia-Log
+ORD-486,  Ibrahim Nwachukwu  ,onitsha,02-23-2024,2024-02-28,Sports,146835.6,debit card,Return,kwik delivery
+ORD-279,David Nwachukwu,Asab,03-13-2024,"March 19, 2024",AUTOMOTIVE,132665.89,cash,Delivered,Red Star Express
+RD-433,Peter Babatunde,Asaba,19.06.2024,2024-07-01,Electronis,139394.26,transfer,Dlvrd,GIG Logistics
+ORD_119,Amara Danladi,Lagos,"June 04, 2023",,Books,36.39,Cash,Delivred,KWIK
+ORD-021,,calabar,07/06/2024,06-17-2024,Food & Drink,99971.42,Cassh,Cncld,JUMIA LOG
+O00171,grace okonkwo,Calbr,03-25-2023,27-Mar-2023,HOME,56040.85,Cash on Delivery,delivered,SENDBOX
+ORD-402,tunde babatunde,kano,06.06.2024,"June 09, 2024",Sport,76218.22,Cassh,Delivred,Redstar
+ORD-390,ADE BELLO,Kanoo,06-01-2024,06-02-2024,Sprts,68518.93,TRANSFER,Delivred,Sndbx
+ORD0570,J@m3s Nwosu,aba,"August 29, 2023",31-Aug-2023,Books,FREE,COD,RETURNED,Redstar
+O00055,Ngozi B3llo,calabar,2024-02-23,02-24-2024,Book,142457.73,USDD,returned,Red Star Express
+ord-177,Paul Ogundimu,PH,22-Aug-2023,09-03-2023,Auto,61668.38,Cash,delivered,gig logistics
+ORD-488,Uche Abiodun,ilorin,17.05.2024,05-20-2024,fashion,37542.82,USSD,returned,Kwik Delivery
+ORD-328,Em3k@ S@l@mi,enugu,2023-06-07,06-09-2023,Electronic,52233.21,bank transfer,Delivered,RED STAR
+ORD_195,mary afolabi,Calabar,08/04/2023,20-Apr-2023,Electronic,76329.57,ussd,Dlvrd,Jumia Log
+ORD_199,NGOZI OGUNDIMU,Owerri,07/02/2024,21.02.2024,AUTOMOTIVE,FREE,USSD,Delayed,C-Plus
+ORD-471,Peter Bello,asaba,20.05.2023,29.05.2023,Electronic,80614.4,,delivered,Kwik-Del
+#521,David Okafor,uyo,01-06-2023,2023-01-18,BEAUTY,33326.71,Transfer,returned,JumiaLogistics
+ord-267,Aliyu Olawale,ibadan,21/08/2023,31-Aug-2023,Home & Living,120215.65,Cassh,Rtrnd,DHL Nig
+O00493,ibrahim nwosu,SOKOTO,31-May-2023,07.06.2023,Home,20002.83,CASH,Dlvrd,KWIK
+ORD-131,Sarah Chukwuemeka,Ilorrin,11.04.2023,"April 20, 2023",HOME,72932.89,,Cncld,dhl
+ORD0339,Tunde Okafor,Sokoto,09-May-2023,11.05.2023,Beauty,1489683.27,USSD,Cancelled,gig logistics
+O00526,Grace Adeleke,Sokoto,22/11/2023,2023-11-26,Fashon,49704.34,CARD,Deliverd,GIG-Logistics
+#ORD490,Sola Adeleke,Onitsha,03-30-2024,04-Apr-2024,Electronics,45214.04,ussd,delivered,GIG
+ORD-194,Zainab Eze,Abeokuta,03-24-2024,"March 31, 2024",Book,39980.32,Trnsfr,Cancel,Courierplus
+ORD-141,Paul Okonkwo,J.O.S,2024-01-20,31-Jan-2024,auto,130467.26,debit card,PENDING,Sendbox
+ORD_417,Musa Nwachukwu,Uyo State,13-Dec-2023,18/12/2023,Fashion,138699.16,bank transfer,DELIVERED,JUMIA LOG
+O00477,Uche Babatunde,sokoto,2024-03-15,27-Mar-2024,Homee,38170.55,Cassh,Dlvrd,DHL Nig
+ORD-153,Fatima Chukwuemeka,Ab,"March 21, 2023",23.03.2023,Fashon,116255.59,Credit Card,DELIVERED,dhl
+ORD_553,Aisha Chukwuemeka,Benin City,09.04.2023,17-Apr-2023,Homee,113616.27,Card,Delayed,G.I.G
+RD-011,Paul Olawale,kano,2023-02-25,2023-03-08,beauty,21887.16 naira,ussd,Cancelled,Red-Star
+#ORD270,BOLU CHUKWUEMEKA,Lgos,08-Jul-2023,16/07/2023,books,148248.27,card,Pndng,Sndbx
+ORD0097,Blessing Babatunde,L.A.G.O.S,11-03-2023,11-04-2023,Sports & Fitness,116648.14,Credit Card,Deliverd,Quik Delivery
+ORD-211,Uche Eze,Jos,10.06.2023,13-Jun-2023,Home,86335.07,CARD,Delivred,kwik delivery
+ORD-200,fatima eze,ASABA,09/05/2024,22.05.2024,Book,137470.63,Cash on Delivery,PENDING,Red Star
+ORD0533,Emeka Salami,kano,"June 18, 2023",02.07.2023,Electronis,5259.35,*737*,Deliverd,gig logistics
+O00575,paul bello,FCT,"May 04, 2023",17.05.2023,Books,FREE,Mobile Money,Dlvrd,Kwik-Del
+RD-333,Fatima Garba,owerri,01.04.2023,,beauty,44130.01,COD,Deliverd,KWIK
+#ORD76,Ibrahim Adeyemi,Ibdn,"October 16, 2023",25-Oct-2023,Electronic,56310.6,CARD,delivered,Jumia-Log
+#ORD78,Aisha Danladi,lagos,30-May-2023,04.06.2023,ELECTRONICS,23278.42,USSD,returned,Jumia Logistics
+#264,MUSA OKONKWO,lagos,2024-06-23,06-21-2024,Stationary,127960.36,Card,Delivred,Red Star
+#ORD150,Ngozi Okafor,LAGOS,26.02.2023,10.03.2023,auto,117665.08,TRANSFER,DELIVERED,Kwik Delivery
+ORD-515,Uche Okonkwo,Onitsa,02-10-2024,,Stationary,135127.9,Card,DELIVERED,Sndbx
+#580,Uche Ogundimu,uyo,2023-07-19,,auto,107721.39,Debit Card,Canceled,Jumia Logistics
+ORD_470,Zainab Nwosu,portharcourt,11-09-2023,11-Nov-2023,Beauty,9554.32,USSD,Pndng,Kwik-Del
+RD-462,uche eze,portharcourt,07-Apr-2023,10-Apr-2023,Home Goods,3942.21,USSD,Deliverd,Courier Plus
+ORD0254,bolu maikudi,Benin-City,2023-09-30,10-12-2023,books,98874.6,bank transfer,Return,Kwik Delivery
+ORD0370,Sola Danladi,Aba,05/01/2023,15-Jan-2023,Sports & Fitness,19176.65,Caard,Delivered,GIG-Logistics
+ORD-322,Uche Ogundimu,asaba,03-14-2023,"March 26, 2023",Fshion,"₦110,628.36",Cash,DELIVERED,Red-Star
+ORD-152,Grace Nwachukwu,ibadan,2024-06-05,,Electrnics,107389.1,TRANSFER,Delivred,JumiaLogistics
+ORD-303,Aisha Adeyemi,ENUGU,05.02.2024,16/02/2024,Electronic,4.33,debit card,delivered,kwik delivery
+#191,Chidi Okafor,KANO,23-May-2024,06-04-2024,Auto,NGN 117149.41,CARD,Late,JumiaLogistics
+#ORD349,Ibrahim Nwachukwu,Owerri,"October 19, 2023",2023-10-20,Food & Drink,52426.31,Cash,delayed,DhL Nigeria
+ord-244,Uche Garba,sokoto,13.06.2024,23.06.2024,fashion,17443.1,*737*,Return,dhl
+O00088,James Ogundimu,Owerri,30.03.2023,26.03.2023,HOME,68046.2,cash,Cancel,Kwik-Del
+#561,Sola Nwosu,BN,12-Jan-2024,2024-01-18,Electronics,"₦38,238.44",card,DELIVERED,gig logistics
+ORD_419,Grace Maikudi,aba,08.03.2023,"March 15, 2023",Car Parts,71589.97,card,delivered,Red Star
+ORD0289,Ade Danladi,ENUGU,2023-11-29,30-Nov-2023,Foood,76684.5,CARD,Delayed,SENDBOX
+ORD0167,Ibrahim Olawale,onitsha,21/03/2023,27.03.2023,Beuty,N39242.03,Card,Delivred,Red Star
+ord-578,Yemi Afolabi,enugu,"June 14, 2024",24-Jun-2024,Electronic,109916.75,COD,CANCELLED,gig logistics
+ord-156,Zainab Olawale,ILORIN,05/03/2023,03-08-2023,,1212843,card,Dlvrd,Redstar
+ORD-357,M@ry M@ikudi,,"August 30, 2023",2023-09-11,clothing,50063.6,ussd,pending,DHL Nigeria
+O00382,Ngozi Ogundimu,ABEOKUTA,09/05/2024,"May 13, 2024",beauty,149889.92,CASH,delayed,Sndbx
+ORD_280,Ade Garba,Kaduna,01-Aug-2023,2023-08-08,Beuty,118739.13,Cash,DELIVERED,Jumia-Log
+#ORD127,Uche Okafor,Ab@,22-May-2024,2024-05-26,Food & Drink,122505.85,TRANSFER,Delivred,DHL Nig
+#ORD23,Mary Nwosu,ASABA,28-Mar-2024,06.04.2024,clothing,35995.42,transfer,delivered,Red-Star
+ord-283,Blessing Nwosu,benin city,12.11.2023,2023-11-18,auto,N46045.43,Caard,Delivered,Red-Star
+ORD_472,Amara Ogundimu,ENUGU,19/08/2023,"August 25, 2023",FASHION,38215.02,CARD,DELIVERED,Jumia Log
+O00368,Aisha Eze,Maiduguri,28/09/2023,10-05-2023,beauty,28288.06,Trnsfr,Delivered,Red Star Express
+ORD_026,hauwa garba,ibadan,03-21-2023,03-25-2023,Stationary,32878.98,COD,Delivered,DHL Nig
+ORD-197,Chidi Nwosu,ASABA,2023-01-19,"January 26, 2023",Beuty,142602.91,Caard,Dlvrd,JUMIA LOG
+ORD-065,Sunday Ogundimu,Uyo,25-Mar-2023,05-Apr-2023,Food & Drink,102054.47,Cash,Deliverd,GIG Logistics
+ORD0016,Hauwa Bello,Ibdn,03/11/2023,11-05-2023,Sprts,52089.16,COD,Delivered,G.I.G
+ORD0467,Yemi Nwosu,aba,"May 08, 2023",19-May-2023,Hom,NGN 41773.37,Bank Transfer,Pending,D.H.L
+O00298,James Danladi,Ab@,2023-02-24,05-Mar-2023,FOOD,6263.61,Cassh,RETURNED,G.I.G
+ord-337,Ade Danladi,Enugu,27/12/2023,"December 28, 2023",beauty,124904.46,Debit Card,Delivered,GIG
+ORD-027,CHUKWU DANLADI,JOS,03.02.2024,2024-02-13,Book,110460.48,Bank Transfer,Dlvrd,Red Star Express
+ORD0044,Sola Bello,kano,"June 12, 2023",13-Jun-2023,Car Parts,106106.33,Mobile Money,Deliverd,
+O00498,Michael Okonkwo,UYO,27-Jun-2023,28-Jun-2023,Beauty & Personal,NGN 41502.31,ussd,Return,Courier Plus
+ORD-516,Chukwu Adeyemi,Ilorin,22-Nov-2023,02/12/2023,books,59171.34,*737*,Dlvrd,DHL Nigeria
+O00590,Bolu B3llo,Owerri,03-11-2024,03-12-2024,BOOKS,34115.69,Cash on Delivery,Delivred,Courierplus
+ORD-562,Chukwu Danladi,Port Harcourt,12-25-2023,29/12/2023,Sprts,106083.02,Bank Transfer,RETURNED,Sndbx
+ORD-455,Uche Adeleke,Kadna,12-Jan-2024,"January 18, 2024",BOOKS,119830.2,bank transfer,Dlayd,
+ord-388,Hauwa Maikudi,IBADAN,11-08-2023,2023-11-14,Car Parts,82119.37,*737*,Cncld,Red Star
+ORD_072,tunde olawale,ILORIN,13.12.2023,14.12.2023,Sports & Fitness,144697.09,TRANSFER,Delivred,
+ORD-543,Gr@c3 Nw@chukwu,Ilorrin,03-18-2024,20/03/2024,Books,138108.93,bank transfer,DELIVERED,Sndbx
+#457,Grace Babatunde,Ilorin,"October 08, 2023",20-Oct-2023,food,32381.35,Trnsfr,returned,Send Box
+ord-432,Ngozi Garba,Enugu,2023-06-24,04/07/2023,Electronic,66658.04 naira,debit card,Late,Kwik Delivery
+O00265,,KADUNA,2024-01-25,02-06-2024,Automotve,4201.78,CASH,Delivred,DHL Nigeria
+ORD-210,Amara Nwosu,Uyo,2023-01-07,17.01.2023,Sports & Fitness,13889.28,Mobile Money,Delivred,GIG-Logistics
+ORD_317,Sol@ B3llo,sokoto,23/07/2023,2023-07-29,books,"₦88,178.75",ussd,Deliverd,Red Star
+ord-514,  Zainab Ogundimu  ,Maidugury,2024-03-30,12.04.2024,Books,N70966.56,Mobile Money,Cncld,Quik Delivery
+O00314,Blessing Chukwuemeka,Asaba,05-10-2023,"May 21, 2023",Homee,142594.41,CASH,Deliverd,DHL
+#535,ngozi chukwuemeka,Abj,20.05.2024,2024-05-22,sports,16053.77,Mobile Money,delivered,Quik Delivery
+ORD-320,GRACE MAIKUDI,Uyo State,02-Jun-2023,2023-06-03,Car Parts,68413.76,debit card,returned,dhl
+ORD0008,Paul Danladi,calabar,"November 11, 2023",2023-11-15,Homee,82920.74,ussd,pending,kwik delivery
+#ORD394,MUSA OGUNDIMU,WARRI,2024-01-19,27/01/2024,beauty,N73830.25,Cash,Canceled,Red-Star
+ord-142,Yemi Babatunde,owerri,12/02/2024,19-Feb-2024,auto,"₦114,575.85",USSD,delivered,RED STAR
+#ORD87,Musa Nwachukwu,kano,03-08-2023,13/03/2023,home,4916.32,Cash on Delivery,Cancel,D.H.L
+RD-479,Grace Adeleke,ABUJA,10/11/2023,11-14-2023,FASHION,141506.81,TRANSFER,cancelled,GIG Logistics
+O00504,Ngozi Salami,warri,"May 27, 2023",2023-06-01,FASHION,NGN 53651.9,*737*,PENDING,Send Box
+RD-216,ADE MAIKUDI,Benin-City,"October 25, 2023",2023-11-03,Hom,67486.85 naira,Trnsfr,RETURNED,GIG
+ORD_581,Musa Nwosu,benincity,21.05.2023,2023-06-02,FASHION,50965.24,debit card,Delayed,Red Star Express
+ORD_563,Peter Garba,ABUJA,"October 27, 2023",10-31-2023,,NGN 73444.95,Xfer,pending,JUMIA LOG
+RD-399,IBRAHIM BELLO,Benin-City,04-12-2023,04-19-2023,Beauty & Personal,76158.77,Cash,Deliverd,Red Star Express
+#491,Aliyu Afolabi,Kanoo,13.03.2024,03-19-2024,Home,143513.51,Credit Card,DELIVERED,GIG Logistics
+ORD_253,SOLA NWOSU,Kadna,06-22-2024,2024-07-02,Fashon,10044.33,*737*,Returned,Sndbx
+RD-469,SARAH OKONKWO,jos,09/06/2024,20/06/2024,Stationary,66405.04,USDD,Dlvrd,CourierPlus
+ord-358,Zainab Adeleke,Jos,29-Jun-2023,04-Jul-2023,Foood,102728.03,TRANSFER,DELIVERED,SENDBOX
+ORD0255,Fatima Abiodun,UYO,02.01.2024,14-Jan-2024,Home & Living,67008.81,COD,PENDING,SENDBOX
+ord-277,  David Garba  ,Maidugury,31/03/2023,27/03/2023,Food,45594.88,USSD,Rtrnd,gig logistics
+#ORD179,Zainab Danladi,JOS,"February 01, 2023",09-Feb-2023,Hom,112595.21,Cash,delivered,Sndbx
+ORD-282,Chidi Adeyemi,aba,11-03-2023,"November 14, 2023",fashion,5644.8,bank transfer,delayed,Courier Plus
+ORD0391,Yemi Maikudi,J.O.S,24.05.2023,02/06/2023,fashion,NGN 124437.21,Debit Card,Canceled,DHL Nig
+RD-509,James Adeyemi,onitsha,08.10.2023,13-Oct-2023,Electronics,64851.61,cash,Dlvrd,RED STAR
+O00584,Musa Afolabi,Calbr,04.11.2023,09-Nov-2023,Sports,144474.92,Cash on Delivery,PENDING,DhL Nigeria
+ORD-130,david nwosu,benincity,03-04-2024,17.03.2024,food,7600.21,*737*,Pndng,GIG Logistics
+RD-145,Aisha Eze,Ibadan,04-15-2023,21/04/2023,Electrnics,66574.81,Bank Transfer,Late,sendbox
+#ORD73,David Nwosu,ILORIN,14.11.2023,26-Nov-2023,Homee,142119.19,debit card,Dlayd,Jumia Logistics
+O00236,Emeka Maikudi,Ab@,03/06/2023,04-Jun-2023,SPORTS,85607.34,Transfer,DELIVERED,Red Star Express
+ord-038,Zainab Ogundimu,Asaba,20-Aug-2023,27-Aug-2023,clothing,32442.75,transfer,Delivered,DHL Nigeria
